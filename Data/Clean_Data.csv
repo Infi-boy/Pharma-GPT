@@ -1,0 +1,1705 @@
+,Disease,Cure name
+0,Theileria annulata,"Buparvaquone, Parvaquone"
+1,Theileria parva,"Buparvaquone, Parvaquone"
+2,Plasmodium knowlesi,"Chloroquine, Artemisinin-based combination therapies"
+3,Human parvovirus B19,Intravenous immunoglobulin
+4,Entamoeba histolytica,"Metronidazole, Tinidazole"
+5,Echinococcus granulosus,"Albendazole, Mebendazole"
+6,Echinococcus multilocularis,"Albendazole, Mebendazole"
+7,Brucella suis,"Doxycycline, Rifampin, Streptomycin"
+8,Rickettsia amblyommatis,"Doxycycline, Chloramphenicol"
+9,Rickettsia australis,"Doxycycline, Chloramphenicol"
+10,Rickettsia conorii,"Doxycycline, Chloramphenicol"
+11,Rickettsia felis,"Doxycycline, Chloramphenicol"
+12,Rickettsia japonica,"Doxycycline, Chloramphenicol"
+13,Rickettsia prowazekii,"Doxycycline, Chloramphenicol"
+14,Rickettsia rickettsii,"Doxycycline, Chloramphenicol"
+15,Rickettsia sibirica,"Doxycycline, Chloramphenicol"
+16,Rickettsia typhi,"Doxycycline, Chloramphenicol"
+17,Mycobacterium avium,"Clarithromycin, Ethambutol, Rifampin"
+18,Mycobacterium intracellulare,"Clarithromycin, Ethambutol, Rifampin"
+19,Mycobacterium leprae,"Dapsone, Rifampin, Clofazimine"
+20,Brucella suis,"Doxycycline, Rifampin"
+21,Rickettsia amblyommatis,Doxycycline
+22,Rickettsia australis,Doxycycline
+23,Rickettsia bellii,Doxycycline
+24,Rickettsia canadensis,Doxycycline
+25,Rickettsia conorii,Doxycycline
+26,Rickettsia felis,Doxycycline
+27,Rickettsia japonica,Doxycycline
+28,Rickettsia montanensis,Doxycycline
+29,Rickettsia parkeri,Doxycycline
+30,Rickettsia prowazekii,Doxycycline
+31,Rickettsia rhipicephali,Doxycycline
+32,Rickettsia rickettsii,Doxycycline
+33,Rickettsia sibirica,Doxycycline
+34,Rickettsia typhi,Doxycycline
+35,Mycobacterium avium,"Clarithromycin, Ethambutol"
+36,Mycobacterium intracellulare,"Clarithromycin, Ethambutol"
+38,Burkholderia cenocepacia,"Ceftazidime, Meropenem"
+39,Burkholderia mallei,"Doxycycline, Ceftazidime"
+40,Burkholderia pseudomallei,"Ceftazidime, Meropenem"
+41,Cryptococcus neoformans,"Fluconazole, Amphotericin B"
+42,Enterobacter cloacae,"Cefepime, Piperacillin-tazobactam"
+43,Burkholderia cenocepacia,"Meropenem, Ceftazidime, Doxycycline"
+44,Burkholderia multivorans,"Trimethoprim-sulfamethoxazole, Meropenem"
+45,Burkholderia mallei,"Doxycycline, Ceftazidime, Imipenem"
+46,Burkholderia pseudomallei,"Ceftazidime, Meropenem, Amoxicillin-clavulanate"
+47,Cryptococcus neoformans,"Amphotericin B, Flucytosine, Fluconazole"
+48,Enterobacter cloacae,"Cefepime, Imipenem, Meropenem"
+49,Dirofilaria immitis,"Ivermectin, Milbemycin oxime, Doxycycline"
+50,Mycobacterium tuberculosis,"Isoniazid, Rifampin, Pyrazinamide, Ethambutol"
+51,Plasmodium chabaudi,"Chloroquine, Artemisinin-based combination therapies"
+52,Bacillus cereus,"Vancomycin, Clindamycin"
+53,Tritrichomonas foetus,"Metronidazole, Ronidazole"
+54,Candida tropicalis,"Fluconazole, Amphotericin B, Echinocandins"
+55,Mycobacterium tuberculosis,"Isoniazid, Rifampicin"
+56,Plasmodium chabaudi,"Chloroquine, Artemisinin"
+57,Dirofilaria immitis,"Ivermectin, Doxycycline"
+58,Candida tropicalis,"Fluconazole, Amphotericin B"
+60,Tritrichomonas foetus,Metronidazole
+61,Mycobacterium bovis,"Isoniazid, Rifampicin"
+62,Mycolicibacterium paratuberculosis,"Rifabutin, Clarithromycin"
+63,Chromobacterium violaceum,"Sulfamethoxazole, Trimethoprim"
+64,Klebsiella aerogenes,"Ceftriaxone, Ciprofloxacin"
+65,Variola virus,"Tecovirimat, Cidofovir"
+66,Mycobacterium bovis,"Isoniazid, Rifampin, Ethambutol"
+67,Mycolicibacterium paratuberculosis,"Clarithromycin, Rifabutin, Ethambutol"
+68,Chromobacterium violaceum,"Sulfamethoxazole-Trimethoprim, Meropenem, Ceftazidime"
+69,Klebsiella aerogenes,"Ceftriaxone, Ciprofloxacin, Amikacin"
+70,Variola virus,"No specific antiviral , supportive care"
+71,Fowlpox virus,"No specific antiviral, supportive care, vaccination for prevention"
+72,Monkeypox virus,"Tecovirimat, Cidofovir"
+73,Vaccinia virus,"Tecovirimat, Cidofovir"
+74,Aspergillus fumigatus,"Voriconazole, Amphotericin B"
+75,Aspergillus flavus,"Voriconazole, Amphotericin B"
+76,Aspergillus terreus,"Voriconazole, Amphotericin B"
+77,Candida dubliniensis,"Fluconazole, Amphotericin B"
+79,Clavispora lusitaniae,"Amphotericin B, Flucytosine"
+80,Acinetobacter baylyi,"Imipenem, Colistin"
+81,Monkeypox virus,"Tecovirimat, Cidofovir, Brincidofovir"
+82,Vaccinia virus,"Tecovirimat, Cidofovir, Vaccinia Immune Globulin"
+83,Aspergillus fumigatus,"Voriconazole, Amphotericin B, Isavuconazole"
+84,Aspergillus flavus,"Amphotericin B, Posaconazole, Itraconazole"
+86,Candida dubliniensis,"Fluconazole, Amphotericin B, Caspofungin"
+87,Candida tropicalis,"Fluconazole, Amphotericin B, Micafungin"
+88,Acinetobacter baylyi,"Meropenem, Colistin, Tigecycline"
+89,Penicillium rubens,"Amphotericin B, Itraconazole"
+90,Talaromyces marneffei,"Amphotericin B, Itraconazole"
+91,Aspergillus niger,"Itraconazole, Amphotericin B"
+93,Coccidioides immitis,"Fluconazole, Itraconazole"
+95,Klebsiella oxytoca,"Ceftriaxone, Ciprofloxacin"
+96,Coccidioides immitis,"Amphotericin B, Fluconazole, Itraconazole"
+97,Cryptococcus neoformans,"Fluconazole, Amphotericin B, Itraconazole"
+98,Escherichia coli,"Ciprofloxacin, Amoxicillin"
+99,Bacillus subtilis,"Bacitracin, Erythromycin"
+100,Haemophilus influenzae,"Amoxicillin, Ceftriaxone"
+101,Bacillus anthracis,"Ciprofloxacin, Doxycycline"
+103,Bacillus thuringiensis subsp. konkukian,"Bacitracin, Erythromycin"
+104,Bacillus licheniformis,"Bacitracin, Erythromycin"
+105,Borreliella afzelii,"Doxycycline, Amoxicillin"
+106,Borreliella burgdorferi,"Doxycycline, Amoxicillin"
+107,Chlamydia pneumoniae,"Azithromycin, Doxycycline"
+108,Clostridioides difficile,"Vancomycin, Metronidazole"
+109,Clostridium botulinum,"Antitoxin, Penicillin"
+110,Clostridium tetani,"Metronidazole, Penicillin"
+111,Ehrlichia canis,"Doxycycline, Tetracycline"
+112,Ehrlichia chaffeensis,"Doxycycline, Rifampin"
+113,Ehrlichia ruminantium,"Doxycycline, Oxytetracycline"
+114,Enterococcus faecalis,"Ampicillin, Vancomycin"
+115,Francisella tularensis subsp. tularensis,"Streptomycin, Gentamicin"
+116,Francisella tularensis subsp. holarctica,"Streptomycin, Gentamicin"
+117,Legionella pneumophila,"Azithromycin, Levofloxacin"
+118,Listeria monocytogenes serotype 4b,"Ampicillin, Gentamicin"
+119,Mycobacterium bovis,"Isoniazid, Rifampin"
+121,Mycolicibacterium fortuitum,"Clarithromycin, Amikacin"
+122,Mycobacterium leprae,"Dapsone, Rifampin"
+123,Mycobacterium tuberculosis,"Isoniazid, Rifampin"
+124,Pseudomonas aeruginosa,"Ciprofloxacin, Tobramycin"
+125,Staphylococcus aureus,"Vancomycin, Linezolid"
+127,Staphylococcus aureus infections,"Vancomycin, Linezolid, Daptomycin"
+128,Staphylococcus epidermidis infections,"Vancomycin, Linezolid, Daptomycin"
+129,Staphylococcus haemolyticus infections,"Vancomycin, Linezolid, Daptomycin"
+130,Staphylococcus saprophyticus infections,"Nitrofurantoin, Trimethoprim-sulfamethoxazole"
+131,Streptomyces infections,"Amikacin, Doxycycline"
+132,Synechococcus infections,No specific treatment required
+133,Wolbachia infections,"Doxycycline, Rifampicin"
+134,Snakebite envenomation,"Antivenom, Crotalidae Polyvalent Immune Fab"
+143,Mycolicibacterium smegmatis infections,"Isoniazid, Rifampicin"
+144,Rhodococcus opacus infections,"Clarithromycin, Rifampicin"
+145,Lachnoclostridium phytofermentans infections,"Metronidazole, Vancomycin"
+146,Acetivibrio thermocellus infections,No specific treatment required
+147,Nitrosomonas europaea infections,No specific treatment required
+163,Vibrio infections,"Doxycycline, Ciprofloxacin"
+164,Alcaligenes infections,"Piperacillin-tazobactam, Meropenem"
+165,Lactobacillus helveticus infections,No specific treatment required
+166,Verticillium dahliae infections,No specific treatment required
+167,Taenia ovis infections,"Praziquantel, Albendazole"
+168,Clostridium kluyveri infections,"Metronidazole, Vancomycin"
+169,Cupriavidus necator infections,No specific treatment required
+170,Arthrobacter infections,No specific treatment required
+171,Pseudomonas infections,"Piperacillin-tazobactam, Ciprofloxacin"
+172,Acinetobacter baumannii infections,"Colistin, Tigecycline"
+173,Ancylobacter novellus infections,No specific treatment required
+174,Burkholderia pseudomallei infections,"Ceftazidime, Meropenem"
+175,Cereibacter sphaeroides infections,No specific treatment required
+176,Chromohalobacter salexigens infections,No specific treatment required
+177,Paracoccus denitrificans infections,No specific treatment required
+178,Planctopirus limnophila infections,No specific treatment required
+179,Bordetella bronchiseptica infections,"Trimethoprim-sulfamethoxazole, Doxycycline"
+180,Bordetella parapertussis infections,"Trimethoprim-sulfamethoxazole, Doxycycline"
+181,Bordetella pertussis infections,"Azithromycin, Erythromycin"
+182,Citrobacter koseri,"Ceftriaxone, Ciprofloxacin"
+183,Cronobacter sakazakii,"Ampicillin, Gentamicin"
+184,Escherichia coli,"Ciprofloxacin, Trimethoprim/Sulfamethoxazole"
+186,Escherichia coli,"Nitrofurantoin, Fosfomycin"
+187,Klebsiella pneumoniae,"Meropenem, Colistin"
+188,Pasteurella multocida,"Amoxicillin/Clavulanate, Doxycycline"
+189,Pectobacterium atrosepticum,"Streptomycin, Tetracycline"
+190,Salmonella enteritidis,"Ciprofloxacin, Azithromycin"
+191,Salmonella typhi,"Ceftriaxone, Azithromycin"
+192,Shigella dysenteriae,"Ciprofloxacin, Azithromycin"
+193,Shigella flexneri,"Ciprofloxacin, Azithromycin"
+194,Shigella sonnei,"Ciprofloxacin, Azithromycin"
+195,Vibrio vulnificus,"Doxycycline, Ceftriaxone"
+196,Yersinia pestis,"Streptomycin, Doxycycline"
+197,Yersinia pseudotuberculosis,"Ciprofloxacin, Doxycycline"
+198,Treponema pallidum,"Penicillin G, Doxycycline"
+200,Aggregatibacter actinomycetemcomitans,"Amoxicillin, Metronidazole"
+201,Candida albicans,"Fluconazole, Amphotericin B"
+202,Chlamydia trachomatis,"Azithromycin, Doxycycline"
+203,Citrobacter amalonaticus,"Ciprofloxacin, Ceftriaxone"
+204,Citrobacter freundii,"Ciprofloxacin, Ceftriaxone"
+206,Haemophilus ducreyi,"Azithromycin, Ceftriaxone"
+208,Shigella boydii,"Ciprofloxacin, Azithromycin"
+211,Helicobacter pylori,"Clarithromycin, Amoxicillin"
+212,Neisseria meningitidis,"Ceftriaxone, Penicillin G"
+213,Trypanosoma cruzi,"Benznidazole, Nifurtimox"
+214,Rabbitpox virus,"Cidofovir, Tecovirimat"
+215,Vaccinia virus,"Cidofovir, Tecovirimat"
+216,Camelpox virus,"Cidofovir, Tecovirimat"
+218,Cowpox virus,"Cidofovir, Tecovirimat"
+220,Ectromelia virus,"Cidofovir, Tecovirimat"
+221,Myxoma virus,"Cidofovir, Tecovirimat"
+222,Rabbit fibroma virus,"Cidofovir, Tecovirimat"
+223,Yaba-like disease virus,"Cidofovir, Tecovirimat"
+224,Yaba monkey tumor virus,"Cidofovir, Tecovirimat"
+225,Loxosceles hirsuta,"Antivenom, Dapsone"
+226,Loxosceles reclusa,"Antivenom, Dapsone"
+227,Loxosceles spadicea,"Antivenom, Dapsone"
+228,Loxosceles intermedia,"Antivenom, Dapsone"
+229,Loxosceles gaucho,"Antivenom, Dapsone"
+230,Loxosceles similis,"Antivenom, Dapsone"
+231,Loxosceles apachea,"Antivenom, Dapsone"
+232,Loxosceles arizonica,"Antivenom, Dapsone"
+233,Loxosceles deserta,"Antivenom, Dapsone"
+234,Loxosceles sabina,"Antivenom, Dapsone"
+235,Loxosceles boneti,"Antivenom, Dapsone"
+236,Loxosceles variegata,"Antivenom, Dapsone"
+237,Loxosceles rufescens,"Antivenom, Dapsone"
+238,Loxosceles amazonica,"Antivenom, Dapsone"
+239,Qbeta virus,No specific antiviral treatment
+240,Escherichia virus Qbeta,No specific antiviral treatment
+241,Enterobacteria phage SP,No specific antiviral treatment
+242,Escherichia phage T5,No specific antiviral treatment
+243,Amsacta moorei entomopoxvirus,No specific antiviral treatment
+244,Lumpy skin disease virus,"Cidofovir, Tecovirimat"
+245,Molluscum contagiosum virus subtype 1,"Cidofovir, Imiquimod"
+247,Sheeppox virus,"Cidofovir, Tecovirimat"
+248,Loxosceles laeta,"Antivenom, Dapsone"
+249,Phytophthora infestans,"Metalaxyl, Mancozeb"
+251,Variola virus,"Cidofovir, Tecovirimat"
+252,Mycobacterium gordonae,"Clarithromycin, Rifampicin"
+253,Mycobacterium marinum,"Clarithromycin, Rifampicin"
+254,Mycobacterium ulcerans,"Rifampicin, Streptomycin"
+255,Edwardsiella tarda,"Ciprofloxacin, Doxycycline"
+256,Pantoea vagans,"Gentamicin, Amikacin"
+257,Rauvolfia serpentina,"Reserpine, Ajmaline"
+258,Rauvolfia verticillata,"Reserpine, Ajmaline"
+259,Alteromonas agarilytica,"Tetracycline, Chloramphenicol"
+260,Thalassotalea agarivorans,"Tetracycline, Chloramphenicol"
+261,Kluyveromyces lactis,"Amphotericin B, Fluconazole"
+262,Loktanella atrilutea,"Ciprofloxacin, Doxycycline"
+263,Amanita exitialis,"Silibinin, Penicillin G"
+264,Amanita fuligineoides,"Silibinin, Penicillin G"
+265,Amanita rimosa,"Silibinin, Penicillin G"
+266,Galerina marginata,"Silibinin, Penicillin G"
+267,Amanita bisporigera,"Silibinin, Penicillin G"
+268,Amanita fuliginea,"Silibinin, Penicillin G"
+269,Amanita phalloides,"Silibinin, Penicillin G"
+270,Amanita pallidorosea,"Silibinin, Penicillin G"
+271,Streptomyces viridochromogenes,"Streptomycin, Neomycin"
+272,Niallia circulans,"Vancomycin, Linezolid"
+273,Rhodococcus erythropolis,"Clarithromycin, Rifampicin"
+274,Aquifex aeolicus,"Ciprofloxacin, Doxycycline"
+275,Rhizobium leguminosarum bv. phaseoli,"Tetracycline, Chloramphenicol"
+276,Thermus aquaticus,"Ciprofloxacin, Doxycycline"
+277,Thermus thermophilus,"Ciprofloxacin, Doxycycline"
+278,Cenchrus ciliaris,Not applicable
+279,Cyclocybe aegerita,Not applicable
+280,Macrophomina phaseolina,"Thiophanate-methyl, Carbendazim"
+281,Adeno-associated virus 2,Not applicable
+282,Plasmodium berghei,"Chloroquine, Artemisinin"
+283,Toxoplasma gondii,"Pyrimethamine, Sulfadiazine"
+284,Penicillium chrysogenum,Not applicable
+285,Aquimarina amphilecti,"Ciprofloxacin, Doxycycline"
+286,Lupinus angustifolius,Not applicable
+287,Geobacter sulfurreducens,"Ciprofloxacin, Doxycycline"
+288,Halalkalibacterium halodurans,"Ciprofloxacin, Doxycycline"
+289,Bacillus sp.,"Vancomycin, Linezolid"
+290,Methylorubrum extorquens,"Ciprofloxacin, Doxycycline"
+291,Methanocaldococcus jannaschii,"Ciprofloxacin, Doxycycline"
+292,Rhizobium meliloti,"Tetracycline, Chloramphenicol"
+293,Saccharolobus solfataricus,"Ciprofloxacin, Doxycycline"
+294,Streptomyces griseus,"Streptomycin, Neomycin"
+295,Streptomyces virginiae,"Streptomycin, Neomycin"
+296,Chlamydia trachomatis serovar L2,"Azithromycin, Doxycycline"
+297,Chlamydia trachomatis serovar A,"Azithromycin, Doxycycline"
+298,Chlamydia trachomatis serovar L2b,"Azithromycin, Doxycycline"
+299,Alcaligenes faecalis,"Ciprofloxacin, Levofloxacin"
+300,Ascaris suum,"Albendazole, Mebendazole"
+301,Botryotinia fuckeliana,"Iprodione, Fenhexamid"
+302,Pyricularia oryzae,"Tricyclazole, Azoxystrobin"
+303,Gibberella zeae,"Prothioconazole, Tebuconazole"
+304,Penicillium digitatum,"Imazalil, Thiabendazole"
+305,Penicillium roqueforti,"Natamycin, Amphotericin B"
+306,Streptomyces antibioticus,"Streptomycin, Neomycin"
+307,Ajellomyces capsulatus,"Itraconazole, Amphotericin B"
+308,Aeromonas salmonicida,"Oxytetracycline, Sulfamerazine"
+310,Streptococcus mutans serotype c,"Chlorhexidine, Fluoride"
+311,Aspergillus niger,"Itraconazole, Voriconazole"
+312,Acinetobacter baumannii,"Imipenem, Colistin"
+315,Stenotrophomonas maltophilia,"Trimethoprim-sulfamethoxazole, Levofloxacin"
+316,Indian cassava mosaic virus,"Acyclovir, Valacyclovir"
+317,Mungbean yellow mosaic virus,"Ribavirin, Sofosbuvir"
+318,Tomato yellow leaf curl virus,"Lamivudine, Tenofovir"
+319,Tomato yellow leaf curl China virus,"Entecavir, Telbivudine"
+320,Tomato yellow leaf curl Sardinia virus,"Adefovir, Emtricitabine"
+321,Tomato leaf curl virus,"Zidovudine, Stavudine"
+322,Tomato pseudo-curly top virus,"Didanosine, Abacavir"
+323,Pepper huasteco yellow vein virus,"Ganciclovir, Cidofovir"
+324,Potato yellow mosaic virus,"Foscarnet, Penciclovir"
+325,Squash leaf curl virus,"Trifluridine, Brivudine"
+326,Acinetobacter baumannii,"Imipenem, Meropenem, Colistin"
+327,Actinobacillus pleuropneumoniae,"Tilmicosin, Florfenicol, Enrofloxacin"
+328,Bartonella bacilliformis,"Ciprofloxacin, Rifampin, Doxycycline"
+329,Brucella melitensis,"Doxycycline, Rifampin, Streptomycin"
+330,Campylobacter jejuni,"Azithromycin, Ciprofloxacin, Erythromycin"
+331,Coxiella burnetii,"Doxycycline, Hydroxychloroquine"
+332,Francisella tularensis,"Streptomycin, Gentamicin, Doxycycline, Ciprofloxacin"
+333,Fusobacterium nucleatum,"Metronidazole, Clindamycin, Penicillin"
+334,Helicobacter pylori,"Clarithromycin, Amoxicillin, Metronidazole, Tetracycline, Levofloxacin"
+336,Neisseria gonorrhoeae,"Ceftriaxone, Azithromycin, Doxycycline"
+337,Neisseria meningitidis,"Penicillin, Ceftriaxone, Rifampin"
+338,Pseudomonas aeruginosa,"Ciprofloxacin, Tobramycin, Piperacillin"
+339,Pseudomonas entomophila,"Gentamicin, Amikacin, Meropenem"
+340,Pseudomonas fluorescens,"Levofloxacin, Ceftazidime, Colistin"
+341,Pseudoalteromonas translucida,"Azithromycin, Doxycycline, Cefepime"
+342,Rhizobium etli,"Rifampicin, Streptomycin, Tetracycline"
+343,Rhizobium leguminosarum bv. trifolii,"Chloramphenicol, Erythromycin, Kanamycin"
+344,Rhizorhabdus wittichii,"Vancomycin, Linezolid, Daptomycin"
+345,Rhodospirillum centenum,"Clindamycin, Metronidazole, Tinidazole"
+346,Rhodopseudomonas palustris,"Clarithromycin, Aztreonam, Imipenem"
+347,Rippkaea orientalis,"Sulfamethoxazole, Trimethoprim, Nitrofurantoin"
+348,Ruminiclostridium cellulolyticum,"Penicillin, Ampicillin, Cephalexin"
+349,Ruthia magnifica subsp. Calyptogena magnifica,"Ceftriaxone, Cefotaxime, Cefuroxime"
+350,Saccharophagus degradans,"Moxifloxacin, Ofloxacin, Norfloxacin"
+351,Sinorhizobium fredii,"Minocycline, Demeclocycline, Tigecycline"
+352,Sinorhizobium medicae,"Azlocillin, Mezlocillin, Carbenicillin"
+353,Sorangium cellulosum,"Fosfomycin, Bacitracin, Polymyxin B"
+354,Sphingopyxis alaskensis,"Erythromycin, Clarithromycin, Azithromycin"
+355,Streptococcus equi subsp. equi,"Penicillin, Amoxicillin, Cefadroxil"
+356,Streptococcus equi subsp. zooepidemicus,"Cefazolin, Cephalothin, Cefaclor"
+357,Streptococcus gordonii,"Clindamycin, Erythromycin, Azithromycin"
+358,Stenotrophomonas maltophilia,"Trimethoprim, Sulfamethoxazole, Levofloxacin"
+359,Streptococcus pneumoniae serotype 2,"Amoxicillin, Ceftriaxone, Vancomycin"
+360,Streptococcus pneumoniae serotype 19F,"Cefotaxime, Cefuroxime, Levofloxacin"
+361,Streptococcus pneumoniae,"Penicillin, Amoxicillin, Azithromycin"
+362,Streptococcus pyogenes serotype M12,"Penicillin, Erythromycin, Clindamycin"
+363,Streptococcus pyogenes serotype M12,"Amoxicillin, Azithromycin, Clarithromycin"
+364,Streptococcus pyogenes serotype M2,"Cephalexin, Cefadroxil, Cefuroxime"
+365,Streptococcus pyogenes serotype M4,"Penicillin, Amoxicillin, Clindamycin"
+366,Streptococcus pyogenes serotype M5,"Erythromycin, Azithromycin, Clarithromycin"
+367,Streptococcus pneumoniae,"Ceftriaxone, Cefotaxime, Levofloxacin"
+369,Streptococcus pneumoniae serotype 4,"Ceftriaxone, Cefotaxime, Vancomycin"
+370,Streptococcus pneumoniae,"Penicillin, Amoxicillin, Cefuroxime"
+371,Streptococcus pyogenes serotype M49,"Erythromycin, Azithromycin, Clindamycin"
+373,Streptococcus equi subsp. zooepidemicus,"Penicillin, Amoxicillin, Cefadroxil"
+374,Streptococcus sanguinis,"Clindamycin, Erythromycin, Azithromycin"
+375,Streptococcus thermophilus,"Penicillin, Amoxicillin, Cefadroxil"
+376,Streptococcus thermophilus,"Cefazolin, Cephalothin, Cefaclor"
+377,Streptococcus thermophilus,"Clindamycin, Erythromycin, Azithromycin"
+378,Streptococcus uberis,"Penicillin, Amoxicillin, Cefadroxil"
+381,Streptococcus pneumoniae,"Penicillin, Amoxicillin, Clindamycin"
+382,Stutzerimonas stutzeri,"Ciprofloxacin, Levofloxacin, Meropenem"
+383,Sulfurimonas denitrificans,"Doxycycline, Minocycline, Tetracycline"
+384,Sulfurovum sp.,"Azithromycin, Clarithromycin, Erythromycin"
+385,Syntrophotalea carbinolica,"Metronidazole, Tinidazole, Clindamycin"
+386,Synechococcus sp.,"Rifampicin, Streptomycin, Tetracycline"
+387,Synechococcus sp.,"Chloramphenicol, Erythromycin, Kanamycin"
+388,Synechococcus sp.,"Vancomycin, Linezolid, Daptomycin"
+389,Syntrophomonas wolfei subsp. wolfei,"Clindamycin, Metronidazole, Tinidazole"
+390,Teredinibacter turnerae,"Clarithromycin, Aztreonam, Imipenem"
+391,Thermus thermophilus,"Sulfamethoxazole, Trimethoprim, Nitrofurantoin"
+392,Thermosynechococcus vestitus,"Penicillin, Ampicillin, Cephalexin"
+393,Thermodesulfovibrio yellowstonii,"Ceftriaxone, Cefotaxime, Cefuroxime"
+394,Thiobacillus denitrificans,"Moxifloxacin, Ofloxacin, Norfloxacin"
+395,Thioalkalivibrio sulfidiphilus,"Minocycline, Demeclocycline, Tigecycline"
+396,Tolumonas auensis,"Azlocillin, Mezlocillin, Carbenicillin"
+397,Treponema denticola,"Fosfomycin, Bacitracin, Polymyxin B"
+398,Trichormus variabilis,"Erythromycin, Clarithromycin, Azithromycin"
+399,Vesicomyosocius okutanii subsp. Calyptogena okutanii,"Penicillin, Amoxicillin, Cefadroxil"
+400,Wigglesworthia glossinidia brevipalpis,"Cefazolin, Cephalothin, Cefaclor"
+401,Wolinella succinogenes,"Clindamycin, Erythromycin, Azithromycin"
+402,Xanthobacter autotrophicus,"Trimethoprim, Sulfamethoxazole, Levofloxacin"
+403,Xylella fastidiosa,"Amoxicillin, Ceftriaxone, Vancomycin"
+404,Xylella fastidiosa,"Cefotaxime, Cefuroxime, Levofloxacin"
+405,Zymomonas mobilis subsp. mobilis,"Penicillin, Amoxicillin, Azithromycin"
+406,Populus trichocarpa,"Ceftriaxone, Cefotaxime, Levofloxacin"
+407,Allochromatium vinosum,"Penicillin, Amoxicillin, Azithromycin"
+408,Lachnospira eligens,"Ceftriaxone, Cefotaxime, Levofloxacin"
+409,Lactiplantibacillus plantarum,"Penicillin, Amoxicillin, Clindamycin"
+410,Lysinibacillus sphaericus,"Ciprofloxacin, Levofloxacin, Meropenem"
+411,Roseiflexus sp.,"Doxycycline, Minocycline, Tetracycline"
+412,Agathobacter rectalis,"Azithromycin, Clarithromycin, Erythromycin"
+413,Frankia alni,"Metronidazole, Tinidazole, Clindamycin"
+414,Frankia sp.,"Rifampicin, Streptomycin, Tetracycline"
+415,Saccharopolyspora erythraea,"Chloramphenicol, Erythromycin, Kanamycin"
+416,Salinispora arenicola,"Vancomycin, Linezolid, Daptomycin"
+417,Salinispora tropica,"Clindamycin, Metronidazole, Tinidazole"
+418,Acholeplasma laidlawii,"Clarithromycin, Aztreonam, Imipenem"
+419,Adiantum capillus-veneris,"Sulfamethoxazole, Trimethoprim, Nitrofurantoin"
+420,Bartonella henselae,"Doxycycline, Azithromycin, Rifampin"
+421,Bartonella quintana,"Doxycycline, Azithromycin, Rifampin"
+422,Bartonella grahamii,"Doxycycline, Azithromycin, Rifampin"
+423,Haemophilus influenzae,"Amoxicillin, Ceftriaxone, Azithromycin"
+424,Streptococcus pyogenes serotype M1,"Penicillin, Amoxicillin, Erythromycin"
+425,Streptococcus pyogenes serotype M3,"Penicillin, Amoxicillin, Erythromycin"
+426,Streptococcus pyogenes serotype M6,"Penicillin, Amoxicillin, Erythromycin"
+427,Streptococcus pyogenes serotype M18,"Penicillin, Amoxicillin, Erythromycin"
+428,Streptococcus pyogenes serotype M28,"Penicillin, Amoxicillin, Erythromycin"
+430,Streptococcus dysgalactiae subsp. equisimilis,"Penicillin, Amoxicillin, Erythromycin"
+431,Streptococcus mutans serotype c,"Chlorhexidine, Fluoride, Amoxicillin"
+432,Proteus mirabilis,"Ciprofloxacin, Trimethoprim-sulfamethoxazole, Ceftriaxone"
+433,Streptococcus suis,"Penicillin, Amoxicillin"
+434,Aspergillus candidus,"Voriconazole, Itraconazole"
+435,Clostridium sporogenes,"Metronidazole, Clindamycin"
+436,Mycobacteroides abscessus,"Clarithromycin, Amikacin"
+437,Mycobacterium marinum,"Rifampicin, Ethambutol"
+440,Candida glabrata,"Fluconazole, Caspofungin"
+443,Mycoplasma genitalium,Azithromycin
+444,Mycoplasma pneumoniae,Erythromycin
+445,Parabacteroides distasonis,Metronidazole
+446,Phocaeicola vulgatus,Metronidazole
+447,Porphyromonas gingivalis,Metronidazole
+448,Rickettsia akari,Doxycycline
+449,Streptococcus agalactiae,Penicillin
+450,Treponema pallidum,Penicillin
+451,Candida maltosa,Fluconazole
+452,Ureaplasma parvum,Azithromycin
+453,Anaplasma phagocytophilum,Doxycycline
+454,Bifidobacterium adolescentis,Metronidazole
+455,Leptospira interrogans,Doxycycline
+456,Leptospira borgpetersenii,Penicillin
+457,Leptospira biflexa,Penicillin
+458,Neisseria meningitidis,Ceftriaxone
+460,Rickettsia massiliae,Doxycycline
+462,Streptomyces rimosus,Oxytetracycline
+463,Streptomyces cyaneus,Chloramphenicol
+464,Streptomyces halstedii,Tetracycline
+465,Streptomyces violaceoruber,Streptomycin
+466,Tropheryma whipplei,"Doxycycline, Hydroxychloroquine"
+468,Cryptosporidium parvum,"Nitazoxanide, Paromomycin"
+469,Acanthamoeba castellanii,"Chlorhexidine, Polyhexamethylene biguanide, Propamidine isethionate"
+470,Naegleria fowleri,"Amphotericin B, Miltefosine"
+471,Plasmodium falciparum,"Artemisinin, Chloroquine, Mefloquine"
+472,Pneumocystis carinii,"Trimethoprim-sulfamethoxazole, Pentamidine"
+473,Cryptococcus neoformans,"Fluconazole, Amphotericin B, Flucytosine"
+474,Dictyocaulus viviparus,"Ivermectin, Albendazole"
+475,Exophiala dermatitidis,"Voriconazole, Itraconazole"
+476,Giardia intestinalis,"Metronidazole, Tinidazole, Nitazoxanide"
+477,Leishmania major,"Amphotericin B, Miltefosine, Sodium stibogluconate"
+478,Taenia solium,"Praziquantel, Albendazole"
+479,Toxoplasma gondii,"Pyrimethamine, Sulfadiazine, Clindamycin"
+480,Staphylococcus xylosus,"Vancomycin, Linezolid, Daptomycin"
+482,Ajellomyces dermatitidis,"Itraconazole, Amphotericin B"
+483,Arthroderma gypseum,"Terbinafine, Itraconazole"
+484,Arthroderma otae,"Terbinafine, Itraconazole"
+485,Blastomyces gilchristii,"Itraconazole, Amphotericin B"
+486,Coccidioides posadasii,"Fluconazole, Itraconazole, Amphotericin B"
+487,Paracoccidioides lutzii,"Itraconazole, Amphotericin B"
+488,Paracoccidioides brasiliensis,"Itraconazole, Amphotericin B"
+489,Trichophyton verrucosum,"Terbinafine, Itraconazole"
+507,Plasmodium vivax,"Chloroquine, Primaquine"
+508,Ustilago maydis,"Amphotericin B, Itraconazole"
+509,Serratia plymuthica,"Ciprofloxacin, Levofloxacin"
+510,Mycoplasmoides gallisepticum,"Tylosin, Tetracycline, Doxycycline"
+511,Treponema medium,"Metronidazole, Penicillin G"
+512,Aeromonas hydrophila,"Ciprofloxacin, Trimethoprim-sulfamethoxazole"
+513,Aeromonas enteropelogenes,"Ciprofloxacin, Trimethoprim-sulfamethoxazole"
+514,Aeromonas sobria,"Ciprofloxacin, Trimethoprim-sulfamethoxazole"
+515,Cryptococcus deuterogattii,"Fluconazole, Amphotericin B, Flucytosine"
+517,Corynebacterium striatum,"Vancomycin, Linezolid, Daptomycin"
+518,Leishmania braziliensis,"Amphotericin B, Miltefosine, Paromomycin"
+520,Staphylococcus epidermidis,"Vancomycin, Linezolid, Daptomycin"
+521,Staphylococcus intermedius,"Amoxicillin-clavulanate, Cephalexin, Clindamycin"
+522,Staphylococcus lugdunensis,"Oxacillin, Cefazolin, Vancomycin"
+523,Providencia rettgeri,"Ciprofloxacin, Levofloxacin, Trimethoprim-sulfamethoxazole"
+525,Yersinia enterocolitica,"Ciprofloxacin, Doxycycline, Trimethoprim-sulfamethoxazole"
+526,Streptomyces galilaeus,"Doxorubicin, Daunorubicin"
+527,Aspergillus niger,"Itraconazole, Voriconazole, Amphotericin B"
+528,Bacillus subtilis,"Bacitracin, Erythromycin, Penicillin"
+531,Trichomonas vaginalis,"Metronidazole, Tinidazole"
+532,Babesia bovis,"Atovaquone, Azithromycin"
+534,Dermatophagoides pteronyssinus,"Antihistamines , Corticosteroids"
+535,Ixodes ricinus,"Doxycycline, Amoxicillin"
+536,Psoroptes ovis,"Ivermectin, Moxidectin"
+537,Candida boidinii,"Fluconazole, Itraconazole"
+538,Listeria monocytogenes serotype 1/2a,Ampicillin
+539,Listeria monocytogenes serotype 1/2a,Gentamicin
+540,Listeria monocytogenes serotype 1/2a,Listeria monocytogenes vaccine
+541,Plasmodium falciparum,Artemisinin
+542,Plasmodium falciparum,Chloroquine
+543,Plasmodium falciparum,Mefloquine
+544,Plasmodium falciparum,Quinine
+545,Toxoplasma gondii,Pyrimethamine
+546,Toxoplasma gondii,Sulfadiazine
+547,Toxoplasma gondii,Clindamycin
+548,Plasmodium falciparum,Artemisinin-based combination therapy
+549,Plasmodium falciparum,Atovaquone-proguanil
+550,Plasmodium falciparum,Quinine sulfate
+556,Plasmodium fragile,Chloroquine
+557,Plasmodium fragile,Artemisinin-based combination therapy
+560,Haemonchus contortus,"Albendazole, Ivermectin, Levamisole"
+561,Paracoccidioides brasiliensis,"Amphotericin B, Itraconazole, Sulfonamides"
+562,Plutella xylostella,"Bacillus thuringiensis, Spinosad"
+563,Pyrenophora teres f. teres,"Azoxystrobin, Propiconazole, Tebuconazole"
+564,Colletotrichum graminicola,"Azoxystrobin, Chlorothalonil, Mancozeb"
+565,Ajellomyces capsulatus,"Amphotericin B, Itraconazole, Fluconazole"
+566,Rhizopus delemar,"Amphotericin B, Itraconazole, Posaconazole"
+567,Aspergillus kawachii,"Voriconazole, Itraconazole, Amphotericin B"
+568,Aspergillus usamii,"Voriconazole, Itraconazole, Amphotericin B"
+569,Rhizopus oryzae,"Amphotericin B, Posaconazole, Itraconazole"
+570,Neisseria meningitidis,"Ceftriaxone, Ciprofloxacin, Penicillin G"
+571,Emericella variicolor,"Amphotericin B, Itraconazole, Voriconazole"
+572,Vibrio anguillarum,"Tetracycline, Doxycycline, Ciprofloxacin"
+573,Neisseria gonorrhoeae,"Ceftriaxone, Azithromycin"
+574,Aspergillus thermomutatus,"Voriconazole, Amphotericin B"
+575,Acinetobacter nosocomialis,"Imipenem, Colistin"
+576,Epstein-Barr virus,"Acyclovir, Ganciclovir"
+577,Human cytomegalovirus,"Ganciclovir, Valganciclovir"
+578,Human herpesvirus 1,"Acyclovir, Valacyclovir"
+579,Human herpesvirus 2,"Acyclovir, Valacyclovir"
+580,Human herpesvirus 6A,"Ganciclovir, Foscarnet"
+581,Human herpesvirus 6B,"Ganciclovir, Foscarnet"
+582,Human herpesvirus 7,"Ganciclovir, Foscarnet"
+583,Human herpesvirus 8,"Ganciclovir, Foscarnet"
+584,Varicella-zoster virus,"Acyclovir, Valacyclovir"
+585,Severe acute respiratory syndrome coronavirus,"Remdesivir, Dexamethasone"
+586,Severe acute respiratory syndrome coronavirus 2,"Remdesivir, Dexamethasone"
+588,Proteus mirabilis,"Ciprofloxacin, Ceftriaxone"
+589,Salmonella typhimurium,"Ciprofloxacin, Azithromycin"
+590,Mycobacterium tuberculosis,"Isoniazid, Rifampicin, Ethambutol, Pyrazinamide"
+591,Leishmania donovani,"Amphotericin B, Miltefosine, Sodium stibogluconate"
+592,Streptococcus suis,"Penicillin, Ampicillin, Ceftriaxone"
+593,Aspergillus terreus,"Voriconazole, Amphotericin B, Itraconazole"
+594,Burkholderia pseudomallei,"Ceftazidime, Meropenem, Trimethoprim-sulfamethoxazole"
+595,Histophilus somni,"Oxytetracycline, Florfenicol, Tilmicosin"
+596,Mannheimia haemolytica,"Tilmicosin, Florfenicol, Enrofloxacin"
+597,Salmonella gallinarum,"Amoxicillin, Enrofloxacin, Florfenicol"
+598,Yersinia ruckeri,"Oxytetracycline, Florfenicol, Enrofloxacin"
+599,Corynebacterium pseudotuberculosis,"Penicillin, Erythromycin, Tetracycline"
+600,Helicobacter pylori,"Clarithromycin, Amoxicillin, Metronidazole"
+602,Enterococcus avium,"Vancomycin, Linezolid, Daptomycin"
+603,Aeromonas salmonicida subsp. salmonicida,"Oxytetracycline, Florfenicol, Sulfamerazine"
+604,Enterococcus faecium,"Vancomycin, Linezolid, Daptomycin"
+605,Cryptosporidium parvum,"Nitazoxanide, Paromomycin, Azithromycin"
+606,Entamoeba dispar,"Metronidazole, Tinidazole, Paromomycin"
+607,Leishmania infantum,"Amphotericin B, Miltefosine, Sodium stibogluconate"
+608,Plasmodium chabaudi chabaudi,"Chloroquine, Artemether-lumefantrine, Mefloquine"
+609,Plasmodium knowlesi,"Chloroquine, Artemether-lumefantrine, Mefloquine"
+611,Ureaplasma urealyticum,"Doxycycline, Azithromycin, Erythromycin"
+612,Streptococcus gordonii,"Penicillin, Amoxicillin, Clindamycin"
+613,Necator americanus,"Albendazole, Mebendazole, Pyrantel pamoate"
+614,Elizabethkingia miricola,"Ciprofloxacin, Levofloxacin, Trimethoprim-sulfamethoxazole"
+615,Ancylostoma caninum,"Albendazole, Mebendazole, Pyrantel pamoate"
+616,Plasmodium falciparum,"Artemether-lumefantrine, Chloroquine, Mefloquine"
+617,Schistosoma japonicum,"Praziquantel, Oxamniquine"
+618,Acinetobacter sp.,"Imipenem, Meropenem, Colistin"
+619,Cryphonectria parasitica,"Carbendazim, Thiophanate-methyl"
+620,Cryptococcus gattii,"Fluconazole, Amphotericin B, Flucytosine"
+621,Candida glabrata,"Caspofungin, Micafungin, Amphotericin B"
+624,Salmonella typhimurium,"Ciprofloxacin, Azithromycin, Ceftriaxone"
+625,Candida parapsilosis,"Fluconazole, Caspofungin, Amphotericin B"
+626,Trichophyton rubrum,"Terbinafine, Itraconazole, Griseofulvin"
+627,Vibrio alginolyticus,"Doxycycline, Ciprofloxacin, Azithromycin"
+628,Cochliomyia hominivorax,"Ivermectin, Doramectin"
+629,Prototheca wickerhamii,"Amphotericin B, Fluconazole, Itraconazole"
+630,Enterococcus faecalis,"Vancomycin, Linezolid"
+631,Babesia divergens,"Atovaquone, Azithromycin"
+634,Listeria monocytogenes,"Ampicillin, Gentamicin"
+638,Clostridioides difficile,"Metronidazole, Vancomycin"
+639,Neisseria meningitidis,"Penicillin, Ceftriaxone"
+645,Moraxella catarrhalis,"Amoxicillin, Clavulanate"
+646,Klebsiella pneumoniae,"Meropenem, Ceftazidime"
+647,Proteus vulgaris,"Ciprofloxacin, Ceftriaxone"
+648,Bacteroides fragilis,"Metronidazole, Clindamycin"
+649,Vibrio cholerae,"Doxycycline, Azithromycin"
+650,Influenza,"Oseltamivir, Zanamivir"
+651,Lyme Disease,"Doxycycline, Amoxicillin, Cefuroxime"
+653,Monkeypox,"Tecovirimat, Brincidofovir, Cidofovir"
+654,Pectobacterium carotovorum infection,"Streptomycin, Tetracycline"
+655,Naegleria gruberi infection,"Amphotericin B, Miltefosine, Fluconazole"
+656,Colletotrichum gloeosporioides infection,"Azoxystrobin, Chlorothalonil, Mancozeb"
+657,Colletotrichum trifolii infection,"Azoxystrobin, Chlorothalonil, Mancozeb"
+658,Trypanosomiasis,"Suramin, Pentamidine, Eflornithine"
+659,Escherichia coli infections,"Ciprofloxacin, Amoxicillin, Trimethoprim-sulfamethoxazole"
+660,Staphylococcus infections,"Methicillin, Vancomycin, Linezolid"
+661,Yersinia infections,"Doxycycline, Ciprofloxacin, Gentamicin"
+662,Pseudomonas aeruginosa infections,"Piperacillin-tazobactam, Ceftazidime, Meropenem"
+663,Streptococcus pneumoniae infections,"Penicillin, Amoxicillin, Ceftriaxone"
+664,Adenovirus infections,"Cidofovir, Ribavirin, Brincidofovir"
+665,Cryptosporidiosis,"Nitazoxanide, Paromomycin, Azithromycin"
+666,Feline calicivirus infection,"Ribavirin, Interferon-alpha"
+667,Feline panleukopenia,"Feline panleukopenia vaccine, Supportive care"
+668,Giardiasis,"Metronidazole, Tinidazole, Nitazoxanide"
+669,Hepatitis B,"Tenofovir, Entecavir, Lamivudine"
+670,Hepatitis B,"Entecavir, Tenofovir, Lamivudine, Adefovir"
+671,Hepatitis E,"Peginterferon alfa-2a, Ribavirin"
+673,High Plains disease,No specific treatment available
+674,Citrus ringspot,No specific treatment available
+675,Infectious hypodermal and hematopoietic necrosis,No specific treatment available
+676,Densovirus infection,No specific treatment available
+677,Leishmaniasis,"Amphotericin B, Pentavalent antimonials"
+678,Norovirus infection,No specific treatment available
+679,Melon necrotic spot,No specific treatment available
+680,Maize streak disease,No specific treatment available
+681,Minute virus infection,No specific treatment available
+682,Narcissus mosaic,No specific treatment available
+683,Potato virus M infection,No specific treatment available
+684,Potato virus S infection,No specific treatment available
+685,Potato virus X infection,No specific treatment available
+686,Raspberry bushy dwarf virus infection,No specific treatment available
+687,Red clover necrotic mosaic virus infection,No specific treatment available
+688,Rabbit calicivirus infection,Supportive care
+689,Ribgrass mosaic virus infection,No specific treatment available
+690,Rice ragged stunt virus infection,No specific treatment available
+691,Southern bean mosaic virus infection,No specific treatment available
+692,Soil-borne wheat mosaic virus infection,No specific treatment available
+693,Southern cowpea mosaic virus infection,No specific treatment available
+694,Subterranean clover stunt virus infection,No specific treatment available
+695,Spodoptera frugiperda ascovirus 1a infection,No specific treatment available
+696,Sunn-hemp mosaic virus infection,No specific treatment available
+697,Shallot virus X infection,No specific treatment available
+698,San Miguel sea lion virus infection,Supportive care
+699,Strawberry mild yellow edge-associated virus infection,No specific treatment available
+700,Soybean chlorotic mottle virus infection,No specific treatment available
+701,Southampton virus infection,No specific treatment available
+702,Sputnik virophage infection,No specific treatment available
+703,Spiroplasma virus SpV1-C74 infection,No specific treatment available
+704,Saccharolobus solfataricus rod-shaped virus 1 infection,No specific treatment available
+705,Sugarcane streak virus infection,No specific treatment available
+706,Satellite tobacco necrosis virus 1 infection,No specific treatment available
+707,Turkey astrovirus 1 infection,Supportive care
+708,Tomato bushy stunt virus infection,No specific treatment available
+709,Turnip crinkle virus,No specific treatment available
+710,Tobacco mild green mosaic virus,No specific treatment available
+711,Tobacco mosaic virus,No specific treatment available
+712,Trichoplusia ni ascovirus 2c,No specific treatment available
+713,Tobacco necrosis virus,No specific treatment available
+714,Tomato mosaic virus,No specific treatment available
+715,Tobacco ringspot virus,No specific treatment available
+716,Tobacco rattle virus,No specific treatment available
+717,Turnip vein-clearing virus,No specific treatment available
+718,Tobacco yellow dwarf virus,No specific treatment available
+719,Capnocytophaga infection,"Clindamycin, Amoxicillin/Clavulanate, Imipenem/Cilastatin"
+720,Meningitis,"Ceftriaxone, Penicillin"
+721,Candida auris infection,"Anidulafungin, Caspofungin, Micafungin"
+722,Neisseria meningitidis,Meningitis
+723,Listeria seeligeri,Listeriosis
+724,Fasciola hepatica,Fascioliasis
+725,Brugia pahangi,Lymphatic filariasis
+726,Q fever,"Doxycycline, Tetracycline"
+727,Listeriosis,"Ampicillin, Gentamicin"
+728,Clostridium difficile infection,"Vancomycin, Metronidazole, Fidaxomicin"
+729,Trichophyton tonsurans infection,"Griseofulvin, Terbinafine"
+730,Trichophyton equinum infection,"Griseofulvin, Itraconazole"
+731,Trypanosomiasis,"Pentamidine, Suramin"
+732,Tularemia,"Ciprofloxacin, Doxycycline, Gentamicin, Chloramphenicol"
+733,Capnocytophaga canimorsus infection,"Piperacillin/Tazobactam, Clindamycin, Ciprofloxacin"
+734,Toxoplasmosis,"Pyrimethamine, Sulfadiazine, Folinic acid"
+735,Salmonellosis,"Ciprofloxacin, Ceftriaxone"
+736,Chlamydia,"Doxycycline, Azithromycin, Levofloxacin"
+737,Enterococcus faecalis infection,"Ampicillin, Vancomycin"
+738,Staphylococcus haemolyticus infection,"Methicillin, Vancomycin"
+739,Skin infections,"Griseofulvin, Terbinafine"
+740,Pear scab,"Fungicides like mancozeb, captan, or thiophanate-methyl"
+741,Flea beetle infestation,Insecticides containing pyrethrins or neonicotinoids
+742,Cat flea infestation,"Insect growth regulators, pyriproxyfen or lufenuron"
+743,Citrus canker,"Copper-based bactericides, antibiotics like streptomycin"
+744,Anaplasmosis,Tetracyclines like oxytetracycline or imidocarb dipropionate
+745,Ehrlichiosis,Doxycycline
+746,Lawsonia intracellularis infection,Macrolides like tylosin or tiamulin
+747,Legionnaires' disease,nan
+748,Infective Endocarditis,"Ampicillin, Ceftriaxone, Vancomycin"
+749,Bacterial Meningitis,"Ceftriaxone, Ampicillin"
+750,Chlamydia Infection,"Doxycycline, Azithromycin"
+751,Anaplasmosis,Doxycycline
+752,Bartonellosis,"Ciprofloxacin, Doxycycline"
+753,Cutaneous and Systemic Infections,"Benzoyl peroxide, Clindamycin, Oral antibiotics"
+755,Urinary Tract Infection,"Ceftriaxone, Ampicillin, Ciprofloxacin"
+756,Gastroenteritis,"Azithromycin, Ciprofloxacin"
+757,Mycobacterial Infections,"Rifampicin, Isoniazid, Ethambutol"
+758,Whipple's disease,"Initial: Ceftriaxone or Penicillin G for 2-4 weeks, followed by Trimethoprim-Sulfamethoxazole  for 1-2 years; alternative: Doxycycline with Hydroxychloroquine."
+759,Periodontal disease,"Metronidazole, Amoxicillin, or Doxycycline."
+760,Bacterial infections,"Antibiotics such as Ceftriaxone, Ceftazidime, or Ciprofloxacin, depending on susceptibility."
+761,Gastroenteritis,"Doxycycline, Azithromycin, or Ciprofloxacin."
+762,Whipple's disease,"Streptomycin, Benzylpenicillin, Trimethoprim-Sulfamethoxazole"
+763,Periodontal disease,"Metronidazole, Amoxicillin, Doxycycline"
+764,Gastroenteritis,"Doxycycline, Azithromycin, Ciprofloxacin"
+767,Bacterial infections,"Ceftriaxone, Ceftazidime, Ciprofloxacin"
+768,Nocardiosis,"Trimethoprim-Sulfamethoxazole, Amikacin"
+769,Chromoblastomycosis,"Itraconazole, Fluconazole"
+770,Phaeohyphomycosis,"Itraconazole, Voriconazole"
+771,Mucormycosis,"Amphotericin B, Posaconazole"
+772,Rhinosporidiosis,"Dapsone, Amphotericin B"
+773,Mycetoma,"Dapsone, Trimethoprim-Sulfamethoxazole"
+774,Fusariosis,"Voriconazole, Amphotericin B"
+775,Saprolegniasis,"Itraconazole, Fluconazole"
+776,Bartonellosis,"Doxycycline, Azithromycin"
+777,Rickettsial diseases,"Doxycycline, Chloramphenicol"
+778,Leishmaniasis,"Pentavalent antimonials , Amphotericin B"
+779,Salmonellosis,"Fluoroquinolones , Ceftriaxone"
+780,Ergotism,None
+781,Claviceps purpurea infection,"Amphotericin B, Fluconazole"
+782,Toxoplasmosis,"Spiramycin, Pyrimethamine, Sulfadiazine"
+783,Myiasis,"Ivermectin, Albendazole"
+784,Coccidiosis,"Sulfonamides , Ionophores"
+785,Respiratory tract infections,"Amoxicillin, Azithromycin"
+786,Skin infections,"Cephalexin, Amoxicillin"
+787,Diphtheria,"Diphtheria antitoxin, Erythromycin"
+788,Yersiniosis,"Ciprofloxacin, Ceftriaxone"
+789,Fungal infections,"Amphotericin B, Fluconazole"
+790,Leptospirosis,"Penicillin, Doxycycline"
+791,Cryptosporidiosis,"Nitazoxanide, Paromomycin"
+792,Helicobacter pylori infection,"Clarithromycin, Amoxicillin, Lansoprazole"
+793,Arcobacter infections,"Ciprofloxacin, Ceftriaxone"
+797,Lonomia envenomation,Lonomia Antivenom
+799,Pertussis,"Azithromycin, Clarithromycin, Erythromycin"
+800,Trypanosomiasis,"Suramin, Pentamidine"
+801,North Asian tick typhus,Doxycycline
+802,Shewanella infection,"Ciprofloxacin, Ceftriaxone"
+803,Bacterial infections,"Ampicillin, Vancomycin"
+804,Campylobacter infection,"Azithromycin, Ciprofloxacin"
+805,Shigellosis,"Azithromycin, Ciprofloxacin, Ceftriaxone"
+807,Equine infectious anemia,"Imidocarb, Dexamethasone"
+812,Bovine leukemia,"Interferon, Zidovudine"
+813,Caprine arthritis encephalitis,"Antiviral therapy, supportive care"
+814,Dhori virus infection,"Ribavirin, supportive care"
+815,Avian leukosis,No specific treatment available
+816,Avian retrovirus infection,No specific treatment available
+817,Avian sarcoma,No specific treatment available
+819,Feline immunodeficiency virus infection,"Antiviral therapy, supportive care"
+820,Feline leukemia,"Interferon, Zidovudine"
+821,Feline sarcoma,No specific treatment available
+822,Human T-cell leukemia,"Chemotherapy, radiation therapy"
+823,Human immunodeficiency virus  infection,Antiretroviral therapy
+824,Adult T-cell leukemia/lymphoma,"Chemotherapy, radiation therapy"
+825,Human immunodeficiency virus type 2  infection,Antiretroviral therapy
+826,Jembrana disease,No specific treatment available
+827,Sheep pulmonary adenomatosis,No specific treatment available
+828,Koala retrovirus infection,No specific treatment available
+829,Murine leukemia,No specific treatment available
+831,Simian immunodeficiency virus  infection,Antiretroviral therapy
+833,Simian retrovirus  infection,No specific treatment available
+834,Thogoto virus infection,No specific treatment available
+835,Maedi visna virus infection,No specific treatment available
+836,Woolly monkey sarcoma virus infection,No specific treatment available
+837,Xenotropic MuLV-related virus infection,No specific treatment available
+839,Avian erythroblastosis,No specific treatment available
+840,Bacterial leaf spot of sesame,"Copper-based bactericides, Streptomycin"
+841,Fungal infections,"Antifungal medications, such as Amphotericin B"
+842,Diphtheria,"Diphtheria antitoxin, Penicillin"
+843,Pneumocystis pneumonia,Trimethoprim-Sulfamethoxazole
+844,Scab,"Copper-based fungicides, Chlorothalonil"
+845,Bacterial leaf spot of gladiolus,"Copper-based bactericides, Streptomycin"
+846,Green peach aphid infestation,"Insecticides, such as Pyrethrin or Neonicotinoids"
+847,Cryptococcosis,"Amphotericin B, Fluconazole"
+848,Chlamydophila psittaci infection,"Azithromycin, Doxycycline"
+849,Equine herpesvirus 1 infection,"Antiviral medications, such as Acyclovir or Valacyclovir"
+850,Gallid herpesvirus 2 infection,"Antiviral medications, such as Acyclovir or Valacyclovir"
+851,Herpes simplex virus 1 infection,nan
+852,Genital herpes,"Antiviral medications, such as Acyclovir or Valacyclovir"
+853,Marek's disease,"Vaccination, Antiviral medications, such as Acyclovir or Valacyclovir"
+854,Equine arteritis,"Antiviral medications, such as Ribavirin or Interferon"
+855,Porcine reproductive and respiratory syndrome,"Vaccination, Antiviral medications, such as Ribavirin or Interferon"
+856,Molluscum contagiosum,"Topical treatments, such as Salicylic acid or Imiquimod, or Antiviral medications, such as Cidofovir"
+857,Fascioliasis,"Antiparasitic medications, such as Triclabendazole or Albendazole"
+858,Clonorchiasis,"Antiparasitic medications, such as Praziquantel or Albendazole"
+859,Streptococcal infections,"Antibiotics, such as Penicillin or Amoxicillin"
+860,Loiasis,"Diethylcarbamazine, Ivermectin, Albendazole"
+862,Cryptosporidiosis,Nitazoxanide
+863,Candida infection,"Fluconazole, Caspofungin"
+864,Loiasis,Diethylcarbamazine
+865,Lymphatic filariasis,"Diethylcarbamazine, Albendazole"
+867,Phomopsis blight,Chlorothalonil
+868,Trypanosomiasis,"Nifurtimox, Benznidazole"
+869,Shewanella infection,Ciprofloxacin
+870,Fusarium head blight,Triadimefon
+872,Cat-scratch disease,"Azithromycin, Clarithromycin, Erythromycin"
+873,Jimsonweed poisoning,Physostigmine
+874,Deadly nightshade poisoning,Physostigmine
+875,Henbane poisoning,Physostigmine
+876,Pokeweed poisoning,No specific treatment available
+877,Pokeweed dermatitis,"Topical corticosteroids, Calamine lotion"
+878,Anthrax,"Ciprofloxacin, Doxycycline"
+879,Brugmansia poisoning,Physostigmine
+880,Datura poisoning,Physostigmine
+881,Scopolamine poisoning,Physostigmine
+882,Black nightshade poisoning,Physostigmine
+883,Aspergillosis,"Voriconazole, Amphotericin B, Itraconazole"
+884,Tuberculosis,"Isoniazid, Rifampicin, Ethambutol, Pyrazinamide"
+885,Leprosy,"Dapsone, Clofazimine, Rifampicin"
+887,Shigellosis,"Ciprofloxacin, Azithromycin, Ceftriaxone"
+888,Erysipelas,"Penicillin, Cephalexin, Erythromycin"
+890,Helicobacter pylori infection,"Omeprazole, Clarithromycin, Amoxicillin"
+891,Nocardiosis,"Sulfadiazine, Trimethoprim-sulfamethoxazole"
+892,Tetanus,"Tetanus toxin, Metronidazole"
+893,Gas gangrene,"Penicillin, Clindamycin, Metronidazole"
+894,Melioidosis,"Ceftazidime, Meropenem, Imipenem"
+895,Salmonellosis,"Ciprofloxacin, Azithromycin, Ceftriaxone"
+896,Aeromonas infection,"Ciprofloxacin, Gentamicin, Tobramycin"
+898,Actinomycosis,"Penicillin, Doxycycline, Clindamycin"
+899,Moraxella infection,"Ciprofloxacin, Gentamicin, Tobramycin"
+900,Fusariosis,"Voriconazole, Amphotericin B, Itraconazole"
+901,Aggregatibacter aphrophilus infection,"Penicillin, Doxycycline, Clindamycin"
+902,Capnocytophaga infection,"Penicillin, Doxycycline, Clindamycin"
+904,Sphingobium infection,"Ciprofloxacin, Gentamicin, Tobramycin"
+905,Lactococcosis,"Penicillin, Amoxicillin, Clindamycin"
+906,Streptomyces infection,"Itraconazole, Voriconazole, Amphotericin B"
+907,Myrmecia infection,"Metronidazole, Clindamycin, Ciprofloxacin"
+908,Feline leukemia virus,"Zidovudine, Lamivudine, Stavudine"
+909,Avian sarcoma virus,No specific treatment available
+910,Methanobrevibacter infection,"Metronidazole, Clindamycin, Ciprofloxacin"
+911,Serratia infection,"Ciprofloxacin, Gentamicin, Tobramycin"
+912,Vibrio infection,"Doxycycline, Ciprofloxacin, Ceftriaxone"
+913,Leptosphaeria infection,"Itraconazole, Voriconazole, Amphotericin B"
+914,Sordaria infection,"Itraconazole, Voriconazole, Amphotericin B"
+915,Trichoderma infection,"Itraconazole, Voriconazole, Amphotericin B"
+917,Ralstonia infection,"Ciprofloxacin, Gentamicin, Tobramycin"
+918,Bovine respiratory syncytial virus infection,No specific treatment available
+919,Human metapneumovirus infection,No specific treatment available
+920,Human respiratory syncytial virus infection,"Ribavirin, Palivizumab"
+921,Measles,"Vitamin A, Measles vaccine"
+922,Mumps,No specific treatment available
+923,Newcastle disease,No specific treatment available
+924,Human parainfluenza 2 virus infection,No specific treatment available
+925,Parainfluenza virus 5 infection,No specific treatment available
+926,Rinderpest,No specific treatment available
+927,Simian virus 41 infection,No specific treatment available
+928,Turkey rhinotracheitis virus infection,No specific treatment available
+940,Hepatitis C,"Sofosbuvir, Ledipasvir, Ribavirin"
+943,Scenedesmus vacuolatus infection,No specific treatment available
+944,Magnolia liliiflora allergy,"Antihistamines, Corticosteroids"
+945,Ranunculus acris poisoning,"Activated charcoal, Supportive care"
+946,Atlantibacter hermannii infection,No specific treatment available
+947,Cutaneotrichosporon curvatum infection,No specific treatment available
+948,Lactarius deterrimus poisoning,"Supportive care, Activated charcoal"
+949,Methanobacterium bryantii infection,No specific treatment available
+950,Methanothermus fervidus infection,No specific treatment available
+951,Panulirus versicolor allergy,"Antihistamines, Corticosteroids"
+952,Pleurotus sajor-caju allergy,"Antihistamines, Corticosteroids"
+953,Serratia odorifera infection,"Ciprofloxacin, Gentamicin, Tobramycin"
+954,Shimwellia blattae infection,"Ciprofloxacin, Gentamicin, Tobramycin"
+956,Haplochromis nubilus infection,No specific treatment available
+957,Haplochromis xenognathus infection,No specific treatment available
+958,Clarkia arcuata allergy,"Antihistamines, Corticosteroids"
+959,Clarkia concinna allergy,"Antihistamines, Corticosteroids"
+960,Clarkia franciscana allergy,"Antihistamines, Corticosteroids"
+961,Clarkia lewisii allergy,"Antihistamines, Corticosteroids"
+962,Clarkia mildrediae allergy,"Antihistamines, Corticosteroids"
+963,Clarkia rostrata allergy,"Antihistamines, Corticosteroids"
+964,Clarkia williamsonii allergy,"Antihistamines, Corticosteroids"
+965,Clarkia xantiana allergy,"Antihistamines, Corticosteroids"
+966,Arabidopsis halleri subsp. gemmifera allergy,"Antihistamines, Corticosteroids"
+967,Xanthomonas citri infection,Copper-based fungicides
+968,Brevundimonas diminuta infection,"Ciprofloxacin, Gentamicin, Tobramycin"
+969,Pseudomonas sp. infection,"Ciprofloxacin, Gentamicin, Tobramycin"
+970,Vaccinia virus infection,"Cidofovir, Brincidofovir"
+971,Pseudomonas viridiflava infection,"Ciprofloxacin, Gentamicin, Tobramycin"
+972,Shewanella phage 1/4 infection,No specific treatment available
+973,AIDS,"Zidovudine, Lamivudine, Tenofovir"
+974,Leukemia,"Imatinib, Dasatinib, Nilotinib"
+975,Sarcoma,"Doxorubicin, Ifosfamide, Etoposide"
+976,Leishmaniasis,"Amphotericin B, Pentamidine, Paromomycin"
+977,Malaria,"Artemisinin, Chloroquine, Quinine"
+978,Herpes Simplex,"Acyclovir, Valacyclovir, Famciclovir"
+979,Cytomegalovirus,"Ganciclovir, Valganciclovir, Foscarnet"
+980,Herpes Zoster,"Acyclovir, Valacyclovir, Famciclovir"
+981,Infectious Laryngotracheitis,None
+982,Bovine Herpesvirus,None
+983,Equine Herpesvirus,None
+987,Schistosomiasis,"Praziquantel, Oxamniquine"
+988,Hookworm,"Albendazole, Mebendazole"
+989,Tapeworm,"Praziquantel, Albendazole"
+990,Tetanus,"Tetanus toxoid, Tetanus immunoglobulin"
+991,Botulism,"Botulinum antitoxin, Botulinum toxoid"
+992,Strangles,"Penicillin, Erythromycin"
+995,Lyssavirus,"Rabies vaccine, Post-exposure prophylaxis"
+996,Rhabdovirus,"No specific treatment, Supportive care"
+997,Rabies,"Rabies vaccine, Post-exposure prophylaxis"
+998,Viral hemorrhagic septicemia,"No specific treatment, Supportive care"
+999,Respiratory syncytial virus,"Ribavirin, Palivizumab"
+1000,Mammarenavirus,"No specific treatment, Supportive care"
+1001,Reptarenavirus,"No specific treatment, Supportive care"
+1002,Respiratory Syncytial Virus,"Ribavirin, Palivizumab"
+1004,Lassa Fever,Ribavirin
+1005,Lymphocytic Choriomeningitis,"No specific treatment, Supportive care"
+1007,Chlamydia,"Azithromycin, Doxycycline"
+1008,Leishmaniasis,"Amphotericin B, Miltefosine, Pentavalent antimonials"
+1009,Sporotrichosis,"Itraconazole, Fluconazole"
+1010,Fungal infections,"Amphotericin B, Fluconazole, Itraconazole"
+1011,Hantavirus,Ribavirin
+1012,Orthohantavirus,Ribavirin
+1013,Bunyavirus,"No specific treatment, Supportive care"
+1014,Phlebovirus,"No specific treatment, Supportive care"
+1015,Rift Valley Fever,"No specific treatment, Supportive care"
+1016,Schmallenberg virus,"No specific treatment, Supportive care"
+1017,Seoul virus,"No specific treatment, Supportive care"
+1018,Dabie bandavirus,"No specific treatment, Supportive care"
+1019,SFTS phlebovirus,"No specific treatment, Supportive care"
+1020,Sin Nombre orthohantavirus,Ribavirin
+1021,Tomato spotted wilt virus,"No specific treatment, Supportive care"
+1022,Tula orthohantavirus,Ribavirin
+1023,Uukuniemi virus,No specific treatment available
+1024,Schistosoma bovis,"Praziquantel, Oxamniquine"
+1025,Schistosoma haematobium,"Praziquantel, Metrifonate"
+1026,Citrobacter rodentium,"Ciprofloxacin, Azithromycin"
+1027,Shigellosis,"Ciprofloxacin, Azithromycin"
+1028,Xanthomonas campestris infection,No specific treatment available
+1029,Bacillus infection,"Vancomycin, Penicillin"
+1030,Clostridium infection,"Metronidazole, Vancomycin"
+1031,Pectobacterium atrosepticum infection,No specific treatment available
+1032,Acinetobacter infection,"Imipenem, Meropenem, Ciprofloxacin"
+1033,Mycobacterium infection,"Isoniazid, Rifampicin, Ethambutol"
+1034,Escherichia infection,"Ciprofloxacin, Azithromycin, Amoxicillin"
+1035,Leishmaniasis,"Pentavalent antimonials, Liposomal amphotericin B"
+1036,Entamoeba infection,"Metronidazole, Paromomycin"
+1037,Trichinella pseudospiralis,"Albendazole, Mebendazole"
+1038,Pasteurella multocida,"Penicillin, Amoxicillin, Doxycycline"
+1039,Hepatitis B virus genotype A1 subtype adw2,"Tenofovir, Entecavir, Lamivudine, Adefovir"
+1040,Hepatitis B virus genotype C subtype adr,"Tenofovir, Entecavir, Lamivudine, Adefovir"
+1041,Clostridium sardiniense,"Metronidazole, Vancomycin, Clindamycin"
+1042,Paraclostridium sordellii,"Metronidazole, Vancomycin"
+1043,Clostridium aminobutyricum,"Metronidazole, Vancomycin"
+1044,Berne virus,No cure
+1045,Breda virus 1,No cure
+1046,Breda virus 2,No cure
+1047,Canine distemper virus,No cure
+1048,Bovine coronavirus,"Lopinavir/Ritonavir, Remdesivir"
+1049,Human coronavirus HKU1,"Lopinavir/Ritonavir, Remdesivir"
+1050,Murine coronavirus,No cure
+1051,Porcine hemagglutinating encephalomyelitis virus,No cure
+1052,Puffinosis coronavirus,No cure
+1053,Rat coronavirus,No cure
+1054,Human torovirus,No cure
+1055,Influenza A virus,"Oseltamivir, Zanamivir, Peramivir"
+1056,Influenza C virus,"No cure, Ribavirin"
+1057,Porcine torovirus,No cure
+1058,Vaccinia virus,"Cidofovir, Brincidofovir"
+1059,Vibrio vulnificus,"Doxycycline, Ciprofloxacin"
+1060,Leptospira borgpetersenii,"Penicillin, Doxycycline"
+1061,Vibrio parahaemolyticus,"Doxycycline, Ciprofloxacin"
+1062,Helicobacter felis,"Clarithromycin, Amoxicillin"
+1063,Giardia intestinalis,"Metronidazole, Albendazole"
+1065,Newcastle disease virus,No cure
+1066,Human parainfluenza 1 virus,"No cure, Ribavirin"
+1067,Human parainfluenza 3 virus,"No cure, Ribavirin"
+1068,Human parainfluenza 4a virus,"No cure, Ribavirin"
+1069,Parainfluenza virus 5,"No cure, Ribavirin"
+1070,Helicobacter acinonychis,"Clarithromycin, Amoxicillin"
+1072,Clostridium scatologenes,"Metronidazole, Vancomycin"
+1073,Haemophilus influenzae,"Ceftriaxone, Azithromycin"
+1074,Anaplasma marginale,"Tetracycline, Doxycycline"
+1075,Plasmodium lophurae,"Chloroquine, Artemisinin-based combination therapy"
+1076,Saprolegnia parasitica,"No cure, treatment is focused on relieving symptoms"
+1077,Plasmodium vivax,"Artemisinin-based combination therapy, Chloroquine"
+1078,African swine fever virus,No cure
+1079,Cauliflower mosaic virus,"No cure, treatment is focused on controlling the spread of the disease"
+1080,Bovine herpesvirus 1,"No cure, treatment is focused on relieving symptoms and controlling the spread of the disease"
+1081,Human herpesvirus 1,"Acyclovir, Valacyclovir, Famciclovir"
+1082,White spot syndrome virus,"No cure, treatment is focused on controlling the spread of the disease"
+1083,Cercopithecine herpesvirus 1,"No cure, treatment is focused on relieving symptoms and controlling the spread of the disease"
+1084,Mycoplasma sp.,"Azithromycin, Doxycycline"
+1085,Spironucleus vortens,Metronidazole
+1086,Mycoplasmopsis fermentans,"Azithromycin, Doxycycline"
+1087,Equine herpesvirus 2,"No cure, treatment is focused on relieving symptoms and controlling the spread of the disease"
+1089,Fusobacterium nucleatum,"Metronidazole, Clindamycin"
+1090,Uromyces appendiculatus,"No cure, treatment is focused on controlling the spread of the disease"
+1094,Murine coronavirus,"No cure, treatment is focused on relieving symptoms and controlling the spread of the disease"
+1095,Turkey enteric coronavirus,"No cure, treatment is focused on relieving symptoms and controlling the spread of the disease"
+1096,Ixodes persulcatus,"Permethrin, Picaridin"
+1097,Flavobacterium sp.,"Ciprofloxacin, Gentamicin"
+1098,Streptomyces jumonjinensis,No cure exists
+1099,Streptomyces microflavus,No cure exists
+1100,Pseudomonas amyloderamosa,"Ciprofloxacin, Gentamicin"
+1101,Pseudomonas sp.,"Ciprofloxacin, Gentamicin"
+1102,Agelenopsis aperta,No cure exists
+1103,Rhodococcus sp.,"Vancomycin, Rifampicin"
+1104,Mycolicibacterium parafortuitum,"Isoniazid, Rifampicin, Ethambutol"
+1105,Encephalitozoon intestinalis,"Albendazole, Fumagillin"
+1106,Daboia siamensis,Antivenom
+1107,Ixodes pacificus,"Permethrin, Picaridin"
+1108,Ixodes sinensis,"Permethrin, Picaridin"
+1109,Chironex fleckeri,No specific cure exists
+1110,Carybdea rastonii,No specific cure exists
+1111,Carybdea alata,No specific cure exists
+1112,Avian sarcoma virus,No cure exists
+1113,Centruroides noxius,Antivenom
+1114,Centruroides bonito,Antivenom
+1115,Centruroides tecomanus,Antivenom
+1116,Parabuthus villosus,Antivenom
+1117,Parabuthus granulatus,Antivenom
+1118,Scorpiops pococki,Antivenom
+1119,Tityus trivittatus,Antivenom
+1120,Tityus pachyurus,Antivenom
+1121,Mesobuthus gibbosus,Antivenom
+1122,Androctonus amoreuxi,Antivenom
+1123,Chaerilus tricostatus,Antivenom
+1124,Buthus paris,Antivenom
+1125,Tityus metuendus,Antivenom
+1126,Vaejovis mexicanus smithi,Antivenom
+1127,Scorpiops tibetanus,Antivenom
+1128,Scorpiops margerisonae,Antivenom
+1129,Scorpiops jendeki,Antivenom
+1130,Centruroides margaritatus,Antivenom
+1131,Edwardsiella tarda,"Ciprofloxacin, Gentamicin"
+1132,Neisseria animalis,"Ciprofloxacin, Gentamicin"
+1133,Mycolicibacterium vanbaalenii,"Isoniazid, Rifampicin, Ethambutol"
+1134,Centruroides limbatus,Antivenom
+1135,Rhopalurus junceus,Antivenom
+1136,Centruroides suffusus,Antivenom
+1137,Heteroctenus garridoi,Antivenom
+1138,Heterometrus spinifer,Antivenom
+1139,Anuroctonus phaiodactylus,Antivenom
+1140,Heterometrus laoticus,Antivenom
+1141,Plasmodium falciparum,"Chloroquine, Artemisinin-based combination therapy"
+1142,Liocheles australasiae,Antivenom
+1143,Euscorpiops validus,Antivenom
+1144,Rathayibacter rathayi,No specific cure exists
+1145,Sulfobacillus thermosulfidooxidans,No specific cure exists
+1146,Streptomyces kasugaensis,No specific cure exists
+1147,Centruroides gracilis,Antivenom
+1148,Centruroides sculpturatus,Antivenom
+1149,Centruroides exilicauda,Antivenom
+1150,Actinomadura kijaniata,No specific cure exists
+1154,Tannerella forsythia,"Metronidazole, Amoxicillin"
+1155,Urodacus manicatus,Antivenom
+1177,Centruroides limbatus,Scorpion antivenom
+1178,Rhopalurus junceus,Scorpion antivenom
+1179,Centruroides suffusus,Scorpion antivenom
+1180,Heterometrus spinifer,Scorpion antivenom
+1181,Euscorpiops validus,Scorpion antivenom
+1182,Centruroides gracilis,Scorpion antivenom
+1183,Centruroides sculpturatus,Scorpion antivenom
+1184,Centruroides exilicauda,Scorpion antivenom
+1185,Heterometrus laoticus,Scorpion antivenom
+1186,Heterometrus petersii,Scorpion antivenom
+1187,Plasmodium falciparum,"Chloroquine, Artemisinin, Mefloquine"
+1193,Listeria welshimeri,"Ampicillin, Gentamicin"
+1194,Amblyomma hebraeum,"Doxycycline, Amoxicillin"
+1195,Argas monolakensis,"Doxycycline, Amoxicillin"
+1196,Mycobacterium phage Corndog,"Isoniazid, Rifampicin, Ethambutol"
+1197,Achromobacter aegrifaciens,"Ciprofloxacin, Gentamicin"
+1198,Pandinus cavimanus,Scorpion antivenom
+1199,Pseudomonas azotoformans,"Ciprofloxacin, Gentamicin"
+1200,Staphylococcus gallinarum,"Methicillin, Vancomycin"
+1201,Staphylococcus hominis,"Methicillin, Vancomycin"
+1202,Staphylococcus simulans,"Methicillin, Vancomycin"
+1203,Streptococcus uberis,"Penicillin, Amoxicillin"
+1204,Lumpy skin disease virus,No cure exists
+1205,Rhodococcus jostii,"Clarithromycin, Rifampicin"
+1206,Latrodectus geometricus,Black widow antivenom
+1207,Latrodectus hasselti,Black widow antivenom
+1208,Latrodectus hesperus,Black widow antivenom
+1209,Latrodectus mactans,Black widow antivenom
+1210,Latrodectus pallidus,Black widow antivenom
+1211,Latrodectus tredecimguttatus,Black widow antivenom
+1212,Steatoda grossa,No cure exists
+1213,Neisseria meningitidis serogroup B,"Ciprofloxacin, Rifampicin"
+1214,Streptococcus iniae,"Penicillin, Amoxicillin"
+1215,Mesomycoplasma hyopneumoniae,"Tetracycline, Erythromycin"
+1216,Aphelenchus avenae,No cure exists
+1217,Axinella polypoides,No cure exists
+1218,Bothrops pauloensis,Bothrops antivenom
+1219,Bothrops pirajai,Bothrops antivenom
+1220,Crotalus ruber ruber,Crotaline antivenom
+1221,Lachesis stenophrys,Lachesis antivenom
+1222,Crotalaria juncea,No cure exists
+1223,Crotalaria pallida,No cure exists
+1224,Galanthus nivalis,No cure exists
+1225,Lathyrus sphaericus,No cure exists
+1226,Luffa acutangula,No cure exists
+1227,Narcissus tazetta,No cure exists
+1228,Leptodactylus pentadactylus,No cure exists
+1229,Streptococcus gallolyticus,"Penicillin, Amoxicillin"
+1230,Buchnera aphidicola,No cure exists
+1231,Hepatitis delta virus,"Interferon alfa, Lamivudine"
+1232,Salmonella houtenae,"Ciprofloxacin, Amoxicillin"
+1233,Gaeumannomyces graminis,No cure exists
+1234,Burkholderia plantarii,"Ciprofloxacin, Amoxicillin"
+1235,Malassezia furfur,"Ketoconazole, Itraconazole"
+1236,Malassezia restricta,"Ketoconazole, Itraconazole"
+1237,Moraxella sp.,"Ciprofloxacin, Amoxicillin"
+1238,Moesziomyces aphidis,No cure exists
+1239,Penicillium cyclopium,No cure exists
+1240,Staphylococcus hyicus,"Methicillin, Vancomycin"
+1241,Bibersteinia trehalosi,"Ciprofloxacin, Amoxicillin"
+1242,Mannheimia glucosida,"Ciprofloxacin, Amoxicillin"
+1243,Reovirus type 3,No cure exists
+1244,Reovirus type 2,No cure exists
+1245,Reovirus type 1,No cure exists
+1246,Bacillus cereus,"Ciprofloxacin, Amoxicillin"
+1247,Aerococcus viridans,"Ciprofloxacin, Amoxicillin"
+1248,Lactobacillus jensenii,No cure exists
+1249,Lacticaseibacillus rhamnosus,No cure exists
+1250,Lentilactobacillus hilgardii,No cure exists
+1251,Mycobacterium indicus pranii,"Isoniazid, Rifampicin, Ethambutol"
+1252,Mycobacterium avium subsp. hominissuis,"Isoniazid, Rifampicin, Ethambutol"
+1253,Aspergillus tamarii,"Ketoconazole, Itraconazole"
+1255,Salmonella typhimurium,"Ciprofloxacin, Amoxicillin"
+1256,Mycobacterium paratuberculosis,"Isoniazid, Rifampicin, Ethambutol"
+1257,Aeromonas jandaei,"Ciprofloxacin, Amoxicillin"
+1258,Rahnella aquatilis,"Ciprofloxacin, Amoxicillin"
+1259,Staphylococcus staphylolyticus,"Methicillin, Vancomycin"
+1260,Shewanella hanedai,"Ciprofloxacin, Amoxicillin"
+1261,Leifsonia aquatica,"Ciprofloxacin, Amoxicillin"
+1262,Pochonia chlamydosporia,No cure exists
+1263,Zymoseptoria tritici,No cure exists
+1264,Borna disease virus 1,No cure exists
+1265,Borna disease virus,No cure exists
+1266,Bunyavirus La Crosse,No cure exists
+1267,Reston ebolavirus,No cure exists
+1269,Sudan ebolavirus,No cure exists
+1271,Zaire ebolavirus,No cure exists
+1273,Mammarenavirus lassaense,Ribavirin
+1274,Lake Victoria marburgvirus,No cure exists
+1278,Parainfluenza virus 5,No cure exists
+1279,Sendai virus,No cure exists
+1280,Toscana virus,No cure exists
+1281,Vesicular stomatitis New Jersey virus,No cure exists
+1282,Influenza A virus,"Oseltamivir, Zanamivir"
+1284,Streptococcus pyogenes serotype M5,"Penicillin, Amoxicillin"
+1285,Fusobacterium mortiferum,"Metronidazole, Amoxicillin"
+1286,Encephalitozoon hellem,"Albendazole, Fumagillin"
+1287,Vespa bicolor,Epinephrine
+1288,Vespa affinis,Epinephrine
+1289,Vespa basalis,Epinephrine
+1290,Vespa ducalis,Epinephrine
+1291,Vespa velutina flavitarsus,Epinephrine
+1292,Polistes rothneyi,Epinephrine
+1293,Polistes dominula,Epinephrine
+1294,Polistes dorsalis,Epinephrine
+1295,Polistes jokahamae,Epinephrine
+1296,Allamanda cathartica,Activated charcoal
+1297,Apocynum androsaemifolium,Activated charcoal
+1298,Aconitum spp.,"Digoxin, Atropine"
+1299,Colchicum speciosum,Activated charcoal
+1300,Drosophyllum lusitanicum,Activated charcoal
+1301,Ephedra sinica,"Ephedrine, pseudoephedrine"
+1302,Galanthus elwesii,Activated charcoal
+1303,Gaultheria procumbens,Activated charcoal
+1304,Gratiola officinalis,Activated charcoal
+1305,Hydrangea quercifolia,Activated charcoal
+1306,Kalmia buxifolia,Activated charcoal
+1307,Kalmia procumbens,Activated charcoal
+1308,Mandragora officinarum,Activated charcoal
+1309,Mimosa pudica,Activated charcoal
+1310,Nepenthes spp.,Activated charcoal
+1311,Nicotiana spp.,Nicotine replacement therapy
+1312,Paris tetraphylla,Activated charcoal
+1313,Pereskia aculeata,Activated charcoal
+1314,Phalaenopsis japonica,None
+1315,Phaulothamnus spinescens,Activated charcoal
+1316,Phaius tancarvilleae,Activated charcoal
+1317,Prunus laurocerasus,Activated charcoal
+1318,Rhamnus cathartica,Activated charcoal
+1319,Rhododendron ferrugineum,Activated charcoal
+1320,Rhododendron hippophaeoides,Activated charcoal
+1321,Rhododendron tomentosum,Activated charcoal
+1322,Rhododendron tsusiophyllum,Activated charcoal
+1323,Rosa spp.,None
+1324,Ruscus aculeatus,Activated charcoal
+1325,Saxifraga spp.,Activated charcoal
+1326,Schlumbergera truncata,Activated charcoal
+1327,Sisymbrium irio,Activated charcoal
+1328,Spartium junceum,Activated charcoal
+1329,Syzygium spp.,Activated charcoal
+1330,Thuja spp.,Activated charcoal
+1331,Thujopsis dolabrata,Activated charcoal
+1332,Tigridia pavonia,Activated charcoal
+1333,Verbascum thapsus,"Anti-inflammatory compounds like Verbascoside, Harpagoside"
+1334,Verbena rigida,"No specific medicine compound, but can cause allergic reactions"
+1335,Human respiratory syncytial virus A,"Ribavirin, Palivizumab"
+1336,Measles virus,"Vitamin A, Ribavirin"
+1337,Human parainfluenza 1 virus,"Ribavirin, Oseltamivir"
+1338,Human parainfluenza 4b virus,"Ribavirin, Oseltamivir"
+1339,Influenza C virus,"Oseltamivir, Zanamivir"
+1340,Lymphocystis disease virus 1,"No specific medicine compound, supportive care only"
+1341,Rana tigrina ranavirus,"No specific medicine compound, supportive care only"
+1342,Suid herpesvirus 1,"Acyclovir, Valacyclovir"
+1343,Yersinia pestis,"Streptomycin, Gentamicin, Ciprofloxacin"
+1344,Klebsiella pneumoniae,"Ciprofloxacin, Ceftriaxone, Amikacin"
+1345,Klebsiella variicola,"Ciprofloxacin, Ceftriaxone, Amikacin"
+1346,Trichophyton tonsurans,"Terbinafine, Itraconazole, Fluconazole"
+1347,Erwinia amylovora,"No specific medicine compound, antibiotic treatment not recommended"
+1348,Pseudomonas veronii,"Ciprofloxacin, Ceftriaxone, Amikacin"
+1349,Shewanella colwelliana,"Ciprofloxacin, Ceftriaxone, Amikacin"
+1350,Trichophyton soudanense,"Terbinafine, Itraconazole, Fluconazole"
+1351,Trichophyton violaceum,"Terbinafine, Itraconazole, Fluconazole"
+1352,Leptospira meyeri,"Penicillin G, Doxycycline, Ciprofloxacin"
+1353,Erwinia pyrifoliae,"No specific medicine compound, antibiotic treatment not recommended"
+1354,Streptomyces spectabilis,"No specific medicine compound, antibiotic treatment not recommended"
+1355,Brevundimonas diminuta,"No specific medicine compound, antibiotic treatment not recommended"
+1356,Comamonas testosteroni,"No specific medicine compound, antibiotic treatment not recommended"
+1357,Halomonas anticariensis,"No specific medicine compound, antibiotic treatment not recommended"
+1358,Trichuris trichiura,"Albendazole, Mebendazole"
+1359,Trichinella spiralis,"Albendazole, Mebendazole"
+1360,Legionella longbeachae,"Azithromycin, Clarithromycin, Erythromycin"
+1361,Aspergillus spp.,"Voriconazole, Itraconazole, Amphotericin B"
+1362,Veillonella parvula,"Metronidazole, Clindamycin"
+1363,Fusarium oxysporum,"Voriconazole, Itraconazole, Amphotericin B"
+1364,Mycobacterium sp.,"Isoniazid, Rifampicin, Ethambutol"
+1365,Chlamydia muridarum,"Azithromycin, Doxycycline, Erythromycin"
+1366,Moloney murine sarcoma virus,"No specific medicine compound, treatment focused on supportive care"
+1367,Tomato bushy stunt virus,"No specific medicine compound, treatment focused on supportive care"
+1368,Mycolicibacterium austroafricanum,"Isoniazid, Rifampicin, Ethambutol"
+1369,Plasmodium falciparum,"Artemisinin, Chloroquine, Quinine, Mefloquine"
+1372,Tomato bushy stunt virus,"No specific medicine compound, supportive care"
+1373,Apple stem grooving virus,"No specific medicine compound, supportive care"
+1375,Streptomyces coelicolor,"No specific medicine compound, supportive care"
+1376,Bacillus sp.,"No specific medicine compound, supportive care"
+1378,Cellulomonas flavigena,"No specific medicine compound, supportive care"
+1379,Haemophilus parahaemolyticus,"Azithromycin, Ciprofloxacin, Amoxicillin"
+1380,Haemophilus aegyptius,"Azithromycin, Ciprofloxacin, Amoxicillin"
+1381,Cronobacter sakazakii,"Gentamicin, Ciprofloxacin, Ampicillin"
+1382,Salmonella infantis,"Ciprofloxacin, Azithromycin, Ampicillin"
+1383,Streptococcus cristatus,"Penicillin, Amoxicillin, Clindamycin"
+1384,Spiroplasma monobiae,"No specific medicine compound, supportive care"
+1385,Vibrio sp.,"Doxycycline, Ciprofloxacin, Azithromycin"
+1386,Xanthomonas campestris pv. cyanopsidis,"Copper-based fungicides, Streptomycin"
+1387,Xanthomonas campestris pv. amaranthicola,"Copper-based fungicides, Streptomycin"
+1388,Xanthomonas vasicola,"Copper-based fungicides, Streptomycin"
+1389,Enterococcus mundtii,"Vancomycin, Linezolid, Daptomycin"
+1390,Microcystis viridis,"No specific medicine compound, supportive care"
+1391,Bean common mosaic necrosis virus,"No specific medicine compound, supportive care"
+1392,Beet mosaic virus,"No specific medicine compound, supportive care"
+1393,Citrus leprosis virus C,"No specific medicine compound, supportive care"
+1394,Groundnut rosette virus,"No specific medicine compound, supportive care"
+1395,Lettuce mosaic virus,"No specific medicine compound, supportive care"
+1396,Plum pox potyvirus,"No specific medicine compound, supportive care"
+1397,Papaya ringspot virus,"No specific medicine compound, supportive care"
+1398,Pea seed-borne mosaic virus,"No specific medicine compound, supportive care"
+1399,Potato virus A,"No specific medicine compound, supportive care"
+1400,Tobacco etch virus,"No specific medicine compound, supportive care"
+1402,Tobacco vein mottling virus,"No specific medicine compound, supportive care"
+1403,Zucchini yellow mosaic virus,"No specific medicine compound, supportive care"
+1404,Avian myeloblastosis virus,"No specific medicine compound, supportive care"
+1405,Avian myelocytomatosis virus CMII,"No specific medicine compound, supportive care"
+1406,Avian retrovirus MH2E21,"No specific medicine compound, supportive care"
+1407,Feline leukemia virus FTT,"No specific medicine compound, supportive care"
+1408,Sarcoptes scabiei,"Permethrin, Ivermectin, Lindane"
+1409,Taenia saginata,"Niclosamide, Praziquantel, Albendazole"
+1410,Crotalus oreganus concolor,Antivenom
+1411,Crotalus durissus cumanensis,Antivenom
+1412,Crotalus oreganus helleri,Antivenom
+1413,Crotalus durissus ruruima,Antivenom
+1414,Turkey coronavirus,"No specific medicine compound, supportive care"
+1415,Dugbe virus,"Ribavirin, Interferon"
+1416,Zaire ebolavirus,"ZMapp, Brincidofovir, Remdesivir"
+1417,Sudan ebolavirus,"ZMapp, Brincidofovir, Remdesivir"
+1418,Feline coronavirus,"No specific medicine compound, supportive care"
+1419,Influenza A virus,"Oseltamivir, Zanamivir, Amantadine, Rimantadine"
+1423,Avian infectious bronchitis virus,"No specific medicine compound, supportive care"
+1424,Impatiens necrotic spot virus,"No specific medicine compound, supportive care"
+1425,Lactate dehydrogenase-elevating virus,"No specific medicine compound, supportive care"
+1426,Maguari virus,"No specific medicine compound, supportive care"
+1427,Measles virus,"No specific medicine compound, supportive care"
+1428,Middle East respiratory syndrome-related coronavirus,"Lopinavir/Ritonavir, Ribavirin, Interferon"
+1429,Mumps virus,"No specific medicine compound, supportive care"
+1430,Newcastle disease virus,"No specific medicine compound, supportive care"
+1431,Porcine epidemic diarrhea virus,"No specific medicine compound, supportive care"
+1432,Peste-des-petits-ruminants virus,"No specific medicine compound, supportive care"
+1433,Puumala virus,"Ribavirin, Interferon"
+1434,Rinderpest virus,"No specific medicine compound, supportive care"
+1435,Sandfly fever sicilian virus,"No specific medicine compound, supportive care"
+1436,Tomato spotted wilt virus,"No specific medicine compound, supportive care"
+1438,Viral hemorrhagic septicemia virus,"No specific medicine compound, supportive care"
+1439,White bream virus,"No specific medicine compound, supportive care"
+1440,Wheat yellow head virus,"No specific medicine compound, supportive care"
+1441,Saccharothrix syringae,"No specific medicine compound, supportive care"
+1442,Streptomyces malayensis,"No specific medicine compound, supportive care"
+1443,Androctonus mauritanicus,Antivenom
+1444,Tityus trinitatis,Antivenom
+1445,Androctonus crassicauda,Antivenom
+1446,Chaerilus tryznai,Antivenom
+1447,Mesomexovis subcristatus,Antivenom
+1448,Human immunodeficiency virus type 1 group M subtype B,Antiretroviral therapy
+1449,Simian immunodeficiency virus,"No specific medicine compound, supportive care"
+1450,Streptomyces cyanogenus,"No specific medicine compound, supportive care"
+1452,Influenza C virus,"No specific medicine compound, supportive care"
+1453,Streptomyces actuosus,"No specific medicine compound, supportive care"
+1454,Streptomyces rubradiris,"No specific medicine compound, supportive care"
+1455,Cryptococcus neoformans,"Amphotericin B, Fluconazole, Voriconazole"
+1457,Bordetella pertussis,"Erythromycin, Clarithromycin, Azithromycin"
+1458,Legionella pneumophila,"Macrolides , Fluoroquinolones"
+1460,Influenza B virus,"Oseltamivir, Zanamivir, Amantadine, Rimantadine"
+1462,Bluetongue virus,"No specific medicine compound, supportive care"
+1463,Feline enteric coronavirus,"No specific medicine compound, supportive care"
+1464,"Rotavirus A, B, C","No specific medicine compound, supportive care"
+1465,Rotavirus A,Rotavirus vaccine
+1466,Rotavirus A,"Rotavirus vaccine, Immunoglobulin"
+1469,Rotavirus A,No human treatment available
+1472,Rotavirus C,No human treatment available
+1487,Aspergillus novofumigatus,"Voriconazole, Itraconazole, Amphotericin B"
+1488,Varanus sp.,No specific compound
+1489,Suncus etruscus,No specific compound
+1490,Anopheles arabiensis,"Chloroquine, Artemisinin-based combination therapies"
+1491,Atropoides nummifer,Antivenom
+1492,Bothrops asper,Antivenom
+1493,Bothriechis lateralis,Antivenom
+1494,Calloselasma rhodostoma,Antivenom
+1495,Gloydius intermedius,Antivenom
+1496,Hypnale hypnale,Antivenom
+1497,Porthidium ophryomegas,Antivenom
+1498,Protobothrops elegans,Antivenom
+1499,Sistrurus miliarius,Antivenom
+1500,Trimeresurus albolabris,Antivenom
+1501,Trimeresurus cantori,Antivenom
+1502,Tropidolaemus wagleri,Antivenom
+1503,Anopheles quadriannulatus,"Chloroquine, Artemisinin-based combination therapies"
+1504,Helicobacter pylori,"Clarithromycin, Amoxicillin, Omeprazole"
+1505,Liberibacter asiaticus,No specific compound
+1506,Pseudomonas sp.,"Ciprofloxacin, Gentamicin, Tobramycin"
+1507,Conus kintoki,No specific compound
+1508,Conus abbreviatus,No specific compound
+1509,Brucella canis,"Doxycycline, Rifampicin"
+1510,Brucella neotomae,"Doxycycline, Rifampicin"
+1511,Brucella ovis,"Doxycycline, Rifampicin"
+1512,Brucella suis,"Doxycycline, Rifampicin"
+1513,Actinobacillus equuli,"Penicillin, Gentamicin"
+1514,Actinobacillus lignieresii,"Penicillin, Gentamicin"
+1515,Neisseria sicca,"Ceftriaxone, Azithromycin"
+1516,Rahnella aquatilis,"Ciprofloxacin, Gentamicin"
+1517,Avibacterium avium (Avibacterium infection,"Doxycycline, Enrofloxacin"
+1518,Avibacterium gallinarum,"Doxycycline, Enrofloxacin"
+1519,Amblyomma testudinarium,"Doxycycline, Amoxicillin"
+1520,Phoneutria nigriventer,No specific compound
+1523,Coxsackievirus B3,No specific compound
+1524,Human enterovirus 71,No specific compound
+1525,Poliovirus type 1,No specific compound
+1526,Porcine reproductive and respiratory syndrome virus,No specific compound
+1527,Caprine arthritis encephalitis virus,No specific compound
+1528,Borrelia burgdorferi,"Doxycycline, Ceftriaxone"
+1529,Mycoplasma capricolum subsp. capripneumoniae,"Tylosin, Tetracycline"
+1530,Streptococcus suis,"Penicillin, Ceftriaxone"
+1531,Streptococcus ratti,"Penicillin, Ceftriaxone"
+1532,Neisseria elongata,"Ceftriaxone, Azithromycin"
+1533,Neisseria flava,"Ceftriaxone, Azithromycin"
+1534,Neisseria perflava,"Ceftriaxone, Azithromycin"
+1535,Vibrio sp.,"Doxycycline, Ciprofloxacin"
+1536,Agkistrodon contortrix laticinctus,Antivenom
+1537,Bothrops marajoensis,Antivenom
+1538,Bothrops matogrossensis,Antivenom
+1539,Bothrops pictus,Antivenom
+1540,Lachesis muta,Antivenom
+1541,Vipera ammodytes,Antivenom
+1542,Mesomycoplasma hyorhinis,"Tylosin, Tetracycline"
+1543,Listeria grayi,"Ampicillin, Gentamicin"
+1544,Mycoplasmoides pneumoniae,"Macrolides , Fluoroquinolones"
+1545,Acanthophis sp.,Antivenom
+1546,Bothrops brazili,Antivenom
+1547,Vipera renardi,Antivenom
+1548,Bitis nasicornis,Antivenom
+1549,Crotalus horridus,Antivenom
+1550,Trimeresurus puniceus,Antivenom
+1551,Bothrops ammodytoides,Antivenom
+1552,Gloydius ussuriensis,Antivenom
+1553,Lachesis acrochorda,Antivenom
+1554,Macrovipera lebetina transmediterranea,Antivenom
+1555,Trimeresurus borneensis,Antivenom
+1556,Trimeresurus gracilis,Antivenom
+1557,Agkistrodon conanti,Antivenom
+1558,Crotalus basiliscus,Antivenom
+1559,Crotalus scutulatus scutulatus,Antivenom
+1560,Crotalus vegrandis,Antivenom
+1561,Crotalus mitchellii mitchellii,Antivenom
+1562,Sistrurus tergeminus,Antivenom
+1563,Crotalus lepidus lepidus,Antivenom
+1564,Sistrurus miliarius barbouri,Antivenom
+1565,Crotalus oreganus lutosus,Antivenom
+1566,Crotalus tzabcan,Antivenom
+1567,Gloydius saxatilis,Antivenom
+1568,Bitis caudalis,Antivenom
+1569,Bothriechis nigroviridis,Antivenom
+1570,Protobothrops mangshanensis,Antivenom
+1571,Protobothrops tokarensis,Antivenom
+1572,Sistrurus miliarius streckeri,Antivenom
+1573,Vipera ammodytes meridionalis,Antivenom
+1574,Vipera aspis aspis,Antivenom
+1575,Vipera aspis zinnikeri,Antivenom
+1576,Streptococcus criceti,"Penicillin, Ceftriaxone"
+1577,Finegoldia magna,"Clindamycin, Vancomycin"
+1579,Legionella longbeachae serogroup 1,"Azithromycin, Levofloxacin"
+1580,Pasteurella aerogenes,"Penicillin, Ceftriaxone"
+1582,Influenza C virus,No specific compound
+1583,Legionella bozemanae,"Azithromycin, Levofloxacin"
+1584,Plasmodium yoelii,"Chloroquine, Artemisinin-based combination therapies"
+1585,Treponema porcinum,"Penicillin, Ceftriaxone"
+1586,Clostridium novyi,"Penicillin, Metronidazole"
+1587,Streptococcus macedonicus,"Penicillin, Ceftriaxone"
+1588,Entamoeba dispar,"Metronidazole, Paromomycin"
+1589,Vaccinia virus,No specific compound
+1590,Clostridium haemolyticum,"Penicillin, Metronidazole"
+1591,Salmonella typhimurium,"Ciprofloxacin, Ceftriaxone"
+1592,Mumps virus,No specific compound
+1593,Newcastle disease virus,No specific compound
+1594,Rabies virus,No specific compound
+1595,Pseudomonas aeruginosa,"Ciprofloxacin, Gentamicin"
+1596,Corynebacterium pseudotuberculosis,"Dapsone, Rifampicin"
+1597,Corynebacterium ulcerans,"Dapsone, Rifampicin"
+1598,Moraxella lacunata,"Amoxicillin, Ceftriaxone"
+1599,Pseudocercospora fijiensis,"Azoxystrobin, Chlorothalonil"
+1600,Pseudomonas amygdali pv. lachrymans,"Ciprofloxacin, Gentamicin"
+1601,Xanthomonas campestris pv. malvacearum,"Copper oxychloride, Mancozeb"
+1602,Lancefieldella rimae,"Amoxicillin, Ceftriaxone"
+1603,Alkhumra hemorrhagic fever virus,"Ribavirin, Interferon alfa"
+1604,Aichi virus,"No specific treatment, supportive care"
+1605,Banzi virus,"No specific treatment, supportive care"
+1606,Coxsackievirus A16,"No specific treatment, supportive care"
+1607,Coxsackievirus A21,"No specific treatment, supportive care"
+1608,Coxsackievirus A24,"No specific treatment, supportive care"
+1609,Coxsackievirus B1,"No specific treatment, supportive care"
+1610,Coxsackievirus A9,"No specific treatment, supportive care"
+1611,Coxsackievirus B3,"No specific treatment, supportive care"
+1612,Coxsackievirus B4,"No specific treatment, supportive care"
+1613,Coxsackievirus B5,"No specific treatment, supportive care"
+1614,Coxsackievirus B6,"No specific treatment, supportive care"
+1615,Dengue virus type 1,"No specific treatment, supportive care"
+1616,Dengue virus type 2,"No specific treatment, supportive care"
+1617,Dengue virus type 3,"No specific treatment, supportive care"
+1618,Dengue virus type 4,"No specific treatment, supportive care"
+1619,Echovirus 1,"No specific treatment, supportive care"
+1620,Echovirus 5,"No specific treatment, supportive care"
+1621,Echovirus 6,"No specific treatment, supportive care"
+1622,Echovirus 9,"No specific treatment, supportive care"
+1623,Echovirus 11,"No specific treatment, supportive care"
+1624,Echovirus 12,"No specific treatment, supportive care"
+1625,Echovirus 16,"No specific treatment, supportive care"
+1626,Echovirus 30,"No specific treatment, supportive care"
+1627,Echo 9 virus,"No specific treatment, supportive care"
+1628,Encephalomyocarditis virus,"No specific treatment, supportive care"
+1629,Feline calicivirus,"No treatment, supportive care"
+1630,Hepatitis A virus,"Ribavirin, Interferon alfa"
+1631,Hepatitis C virus,"Sofosbuvir, Ledipasvir, Daclatasvir"
+1633,Human enterovirus 70,"No specific treatment, supportive care"
+1634,Human enterovirus 71,"No specific treatment, supportive care"
+1635,Human enterovirus D68,"No specific treatment, supportive care"
+1636,Human klassevirus 1,"No specific treatment, supportive care"
+1637,Human parechovirus 1,"No specific treatment, supportive care"
+1638,Human parechovirus 2,"No specific treatment, supportive care"
+1639,Human parechovirus 5,"No specific treatment, supportive care"
+1640,Human rhinovirus 14,"No specific treatment, supportive care"
+1641,Human rhinovirus C,"No specific treatment, supportive care"
+1642,"Human rhinovirus 16"": ""No specific treatment, supportive care"",",nan
+1643,Human rhinovirus 1A,"No specific treatment, supportive care"
+1644,Human rhinovirus 1B,"No specific treatment, supportive care"
+1645,Human rhinovirus 2,"No specific treatment, supportive care"
+1646,Human rhinovirus 3,"No specific treatment, supportive care"
+1647,Japanese encephalitis virus,"Vaccination, supportive care"
+1648,Kyasanur forest disease virus,"Vaccination, supportive care"
+1649,Kunjin virus,"No specific treatment, supportive care"
+1650,Langat virus,"No specific treatment, supportive care"
+1651,Louping ill virus,"No specific treatment, supportive care"
+1652,Ljunganvirus 1,"No specific treatment, supportive care"
+1653,Murray valley encephalitis virus,"No specific treatment, supportive care"
+1654,Poliovirus type 1,"Vaccination, supportive care"
+1655,Poliovirus type 2,"Vaccination, supportive care"
+1656,Poliovirus type 3,"Vaccination, supportive care"
+1657,Tick-borne powassan virus,"No specific treatment, supportive care"
+1658,Rabbit hemorrhagic disease virus,"No specific treatment, supportive care"
+1659,Rocio virus,"No specific treatment, supportive care"
+1660,St. Louis encephalitis virus,"No specific treatment, supportive care"
+1661,Tick-borne encephalitis virus,"Vaccination, supportive care"
+1662,Sapporo virus,"No specific treatment, supportive care"
+1663,Usutu virus,"No specific treatment, supportive care"
+1664,West Nile virus,"No specific treatment, supportive care"
+1665,Wesselsbron virus,"No specific treatment, supportive care"
+1666,Yellow fever virus,"Vaccination, supportive care"
+1667,Zika virus,"No specific treatment, supportive care"
+1668,Chikungunya virus,"No specific treatment, supportive care"
+1669,Eastern equine encephalitis virus,"No specific treatment, supportive care"
+1670,Venezuelan equine encephalitis virus,"No specific treatment, supportive care"
+1671,Getah virus,"No specific treatment, supportive care"
+1672,Mayaro virus,"No specific treatment, supportive care"
+1673,Middelburg virus,"No specific treatment, supportive care"
+1674,Ross river virus,"No specific treatment, supportive care"
+1675,Rubella virus,"Vaccination, supportive care"
+1677,Sagiyama virus,"No specific treatment, supportive care"
+1678,Semliki forest virus,"No specific treatment, supportive care"
+1679,Sindbis virus,"No specific treatment, supportive care"
+1680,Western equine encephalitis virus,"No specific treatment, supportive care"
+1685,Simian immunodeficiency virus,"No specific treatment, supportive care"
+1686,Human adenovirus D serotype 17,"No specific treatment, supportive care"
+1687,Serratia marcescens,Antibiotics such as ciprofloxacin or gentamicin
+1688,Renibacterium salmoninarum,Antibiotics such as erythromycin or tetracycline
+1689,Karenia brevis,"No specific treatment, supportive care"
+1690,Psilocybe cyanescens,"No specific treatment, supportive care"
+1691,Aspergillus ruber,Antifungal medications such as amphotericin B or voriconazole
+1692,Pseudomonas plecoglossicida,"Ciprofloxacin, Gentamicin"
+1693,Parascaris univalens,"Albendazole, Mebendazole"
+1694,Kocuria rosea,"Vancomycin, Linezolid"
+1695,Acidilobus saccharovorans,No cure exists
+1696,Thermosphaera aggregans,No cure exists
+1697,Vulcanisaeta distributa,No cure exists
+1698,Pomacea canaliculata,No cure exists
+1699,Pomacea maculata,No cure exists
+1700,Gongylus gongylodes,No cure exists
+1701,Mantis religiosa,No cure exists
+1702,Phymateus morbillosus,No cure exists
+1703,Agrotis segetum nuclear polyhedrosis virus,No cure exists
+1704,Mamestra brassicae nuclear polyhedrosis virus,No cure exists
+1705,Malacosoma neustria nuclear polyhedrosis virus,No cure exists
+1706,Panolis flammea multiple nucleocapsid polyhedrosis virus,No cure exists
+1707,Spodoptera frugiperda nuclear polyhedrosis virus,No cure exists
+1708,Spodoptera littoralis nuclear polyhedrosis virus,No cure exists
+1709,Rhodothalassium salexigens,No cure exists
+1710,Flavobacterium lutescens,"Ciprofloxacin, Gentamicin"
+1711,Aspergillus violaceofuscus,"Voriconazole, Itraconazole"
+1712,Bacillus pumilus,"Ciprofloxacin, Gentamicin"
+1713,Staphylococcus saprophyticus,"Ciprofloxacin, Gentamicin"
+1714,Francisella cf. novicida,"Ciprofloxacin, Gentamicin"
+1715,Lactococcus garvieae,"Ciprofloxacin, Gentamicin"
+1716,Aurantimonas manganoxydans,No cure exists
+1717,Digitalis purpurea,Digoxin
+1718,Lupinus,"Lupin alkaloids can be toxic, no specific antidote, but supportive care can be provided"
+1719,Nicandra physalodes,Atropine
+1720,Strychnos nux-vomica,Physostigmine
+1721,African horse sickness virus,"No cure exists, but supportive care can be provided"
+1722,Blueberry scorch virus,"No cure exists, but supportive care can be provided"
+1723,Bluetongue virus,"No cure exists, but supportive care can be provided"
+1724,Colorado tick fever virus,"No cure exists, but supportive care can be provided"
+1725,Cucumber mosaic virus,"No cure exists, but supportive care can be provided"
+1726,Influenza A virus,"Oseltamivir , Zanamivir"
+1727,Greasy grouper nervous necrosis virus,"No cure exists, but supportive care can be provided"
+1729,Staphylococcus aureus,"Methicillin, Vancomycin, Linezolid"
+1730,Simian immunodeficiency virus,"No cure exists, but antiretroviral therapy can be used to manage symptoms"
+1731,Salmonella,"Ciprofloxacin, Azithromycin, Ceftriaxone"
+1732,Toxocara canis,"Albendazole, Mebendazole"
+1733,Taenia asiatica,"Praziquantel, Albendazole"
+1734,Vibrio metschnikovii,"Ciprofloxacin, Gentamicin"
+1735,Leishmania peruviana,"Amphotericin B, Pentavalent antimonials"
+1736,Brachyspira pilosicoli,"Metronidazole, Tetracycline"
+1737,Salmonella anatum,"Ciprofloxacin, Azithromycin, Ceftriaxone"
+1738,Aspergillus pallidus,"Voriconazole, Itraconazole"
+1739,Aspergillus clavatus,"Voriconazole, Itraconazole"
+1740,Aeromonas veronii,"Ciprofloxacin, Gentamicin"
+1741,Mycoplasmoides gallisepticum,"Tetracycline, Erythromycin"
+1742,Clostridium ljungdahlii,"Metronidazole, Vancomycin"
+1743,Aspergillus restrictus,"Voriconazole, Itraconazole"
+1744,Simian hemorrhagic fever virus,"No cure exists, but supportive care can be provided"
+1745,Porcine reproductive and respiratory syndrome virus,"No cure exists, but supportive care can be provided"
+1746,Mycolicibacterium peregrinum,"Isoniazid, Rifampicin"
+1747,Porphyromonas cangingivalis,"Metronidazole, Amoxicillin"
+1748,Bartonella clarridgeiae,"Azithromycin, Doxycycline"
+1749,Mycobacterium szulgai,"Isoniazid, Rifampicin, Ethambutol"
+1750,Helicobacter bizzozeronii,"Clarithromycin, Amoxicillin, Metronidazole"
+1751,Kingella kingae,"Ceftriaxone, Ciprofloxacin, Gentamicin"
+1752,Escherichia coli,"Ciprofloxacin, Amoxicillin, Ceftriaxone"
+1753,Klebsiella variicola,"Ciprofloxacin, Gentamicin, Ceftriaxone"
+1754,Neisseria meningitidis,"Ceftriaxone, Penicillin, Chloramphenicol"
+1757,Rickettsia africae,"Doxycycline, Chloramphenicol"
+1758,Rickettsia slovaca,"Doxycycline, Chloramphenicol"
+1760,Staphylococcus lugdunensis,"Methicillin, Vancomycin, Linezolid"
+1761,Staphylococcus pseudintermedius,"Methicillin, Vancomycin, Linezolid"
+1762,Streptococcus salivarius,"Penicillin, Amoxicillin, Ceftriaxone"
+1763,Streptococcus oralis,"Penicillin, Amoxicillin, Ceftriaxone"
+1764,Avian erythroblastosis virus,"No cure exists, but supportive care can be provided"
+1765,Hepatitis delta virus genotype I,"Peginterferon alfa-2a, Ribavirin"
+1766,Mumps virus,"Mumps vaccine, Ribavirin"
+1767,Avian erythroblastosis virus,No cure
+1768,Bacillus thuringiensis subsp. konkukian,No cure
+1769,Fusarium virguliforme,"Voriconazole, Amphotericin B"
+1770,Vaccinia virus,"Vaccinia immune globulin, Brincidofovir"
+1771,Mycobacterium celatum,"Isoniazid, Rifampicin, Ethambutol"
+1772,Mycobacterium lepraemurium,"Dapsone, Clofazimine, Rifampicin"
+1773,Mycobacterium simiae,"Isoniazid, Rifampicin, Ethambutol"
+1774,Streptococcus acidominimus,"Penicillin, Ceftriaxone"
+1775,Streptococcus alactolyticus,"Penicillin, Ceftriaxone"
+1776,Streptococcus canis,"Penicillin, Ceftriaxone"
+1777,Streptococcus porcinus,"Penicillin, Ceftriaxone"
+1779,Salmonella blockley,"Ciprofloxacin, Azithromycin"
+1780,Salmonella bongori,"Ciprofloxacin, Azithromycin"
+1781,Salmonella diarizonae,"Ciprofloxacin, Azithromycin"
+1782,Salmonella enterica VII,"Ciprofloxacin, Azithromycin"
+1783,Salmonella enterica I,"Ciprofloxacin, Azithromycin"
+1784,Salmonella hadar,"Ciprofloxacin, Azithromycin"
+1785,Salmonella typhisuis,"Ciprofloxacin, Azithromycin"
+1786,Scedosporium boydii,"Voriconazole, Amphotericin B"
+1787,Clostridium innocuum,"Metronidazole, Vancomycin"
+1788,Human adenovirus D serotype 15,No cure
+1789,Human adenovirus D serotype 15/H9,No cure
+1790,Bovine coronavirus,No cure
+1792,Porcine transmissible gastroenteritis coronavirus,No cure
+1793,Avian infectious bronchitis virus,No cure
+1794,Avian sarcoma virus,No cure
+1795,Streptococcus sp. group G,"Penicillin, Ceftriaxone"
+1797,Rous sarcoma virus,No cure
+1799,Rous sarcoma virus subgroup E,No cure
+1800,Chlamydia abortus,"Azithromycin, Doxycycline"
+1802,Streptococcus sp.,"Penicillin, Ceftriaxone"
+1803,Shigella phage 7888,No cure
+1805,Treponema denticola,"Penicillin, Doxycycline"
+1806,Listeria monocytogenes serotype 1/2a,"Ampicillin, Gentamicin"
+1807,Salmonella potsdam,"Ciprofloxacin, Azithromycin"
+1808,Clostridioides mangenotii,"Metronidazole, Vancomycin"
+1809,Staphylococcus aureus,"Methicillin, Ciprofloxacin"
+1810,Salmonella ordonez,"Ciprofloxacin, Azithromycin"
+1812,Human cytomegalovirus,"Valganciclovir, Ganciclovir, Foscarnet"
+1814,Ureaplasma urealyticum,"Doxycycline, Azithromycin"
+1815,Corynebacterium nephridii,"Ceftriaxone, Gentamicin"
+1817,Bacillus cereus,"Clindamycin, Vancomycin"
+1818,Vermamoeba vermiformis,"Metronidazole, Tinidazole"
+1819,Ateline herpesvirus 3,"Acyclovir, Valacyclovir, Famciclovir"
+1820,Saimiriine herpesvirus 2,"Acyclovir, Valacyclovir, Famciclovir"
+1821,Flavobacterium psychrophilum,"Ciprofloxacin, Gentamicin"
+1822,Bordetella parapertussis,"Azithromycin, Clarithromycin, Erythromycin"
+1823,Shewanella massilia,"Ciprofloxacin, Gentamicin"
+1824,Proteus inconstans,"Amoxicillin, Ceftriaxone, Gentamicin"
+1825,Anopheles merus,"No specific treatment, but can transmit malaria"
+1826,Culex tarsalis,"No specific treatment, but can transmit West Nile virus"
+1827,Vibrio sp.,"Ciprofloxacin, Gentamicin"
+1828,Citrobacter intermedius,"Ciprofloxacin, Gentamicin"
+1829,Fusarium sporotrichioides,"Amphotericin B, Voriconazole"
+1830,Pseudomonas putida,"Ciprofloxacin, Gentamicin"
+1831,Fusarium acaciae-mearnsii,"Amphotericin B, Voriconazole"
+1832,Fusarium asiaticum,"Amphotericin B, Voriconazole"
+1833,Fusarium austroamericanum,"Amphotericin B, Voriconazole"
+1834,Fusarium boothii,"Amphotericin B, Voriconazole"
+1835,Fusarium cerealis,"Amphotericin B, Voriconazole"
+1836,Fusarium cortaderiae,"Amphotericin B, Voriconazole"
+1837,Fusarium meridionale,"Amphotericin B, Voriconazole"
+1838,Fusarium mesoamericanum,"Amphotericin B, Voriconazole"
+1839,Fusarium poae,"Amphotericin B, Voriconazole"
+1840,Fusarium pseudograminearum,"Amphotericin B, Voriconazole"
+1842,Human herpesvirus 7,"Acyclovir, Valacyclovir, Famciclovir"
+1843,Pneumocystis jirovecii,"Trimethoprim-Sulfamethoxazole, Pentamidine"
+1846,Riemerella anatipestifer,"No specific treatment, but can cause respiratory infections"
+1847,Phoneutria reidyi,"Antivenom , Pain management"
+1848,Phoneutria boliviensis,"Antivenom , Pain management"
+1849,Buthus sp.,"Antivenom , Pain management"
+1850,Scolopendra morsitans,"Antivenom , Pain management"
+1851,Phoneutria pertyi,"Antivenom , Pain management"
+1852,Gloydius tsushimaensis,"Antivenom , Pain management"
+1853,Treponema pallidum subsp. pertenue,"Penicillin, Doxycycline, Azithromycin"
+1854,Enterococcus faecalis,"Vancomycin, Linezolid, Daptomycin"
+1856,Human herpesvirus 6B,"Acyclovir, Valacyclovir, Famciclovir"
+1859,Helicobacter heilmannii,"Clarithromycin, Amoxicillin, Metronidazole"
+1860,Streptococcus parasanguinis,"Penicillin, Amoxicillin, Clindamycin"
+1861,Streptococcus salivarius,"Penicillin, Amoxicillin, Clindamycin"
+1862,Yersinia aldovae,"Ciprofloxacin, Gentamicin, Doxycycline"
+1863,Yersinia bercovieri,"Ciprofloxacin, Gentamicin, Doxycycline"
+1864,Yersinia frederiksenii,"Ciprofloxacin, Gentamicin, Doxycycline"
+1865,Yersinia mollaretii,"Ciprofloxacin, Gentamicin, Doxycycline"
+1866,Yersinia rohdei,"Ciprofloxacin, Gentamicin, Doxycycline"
+1867,Gloydius blomhoffii blomhoffii,"Antivenom , Pain management"
+1869,Bartonella schoenbuchensis,"Doxycycline, Azithromycin, Erythromycin"
+1870,Human papillomavirus 3,"Imiquimod, Podophyllotoxin, Interferon"
+1871,Human papillomavirus 4,"Imiquimod, Podophyllotoxin, Interferon"
+1872,Human papillomavirus 5,"Imiquimod, Podophyllotoxin, Interferon"
+1873,Human papillomavirus 7,"Imiquimod, Podophyllotoxin, Interferon"
+1874,Human papillomavirus 8,"Imiquimod, Podophyllotoxin, Interferon"
+1875,Human papillomavirus 9,"Imiquimod, Podophyllotoxin, Interferon"
+1876,Human papillomavirus 1,"Imiquimod, Podophyllotoxin, Interferon"
+1877,Human papillomavirus 10,"Imiquimod, Podophyllotoxin, Interferon"
+1878,Human papillomavirus 11,"Imiquimod, Podophyllotoxin, Interferon"
+1879,Human papillomavirus 12,"Imiquimod, Podophyllotoxin, Interferon"
+1880,Human papillomavirus 13,"Imiquimod, Podophyllotoxin, Interferon"
+1881,Human papillomavirus 14,"Imiquimod, Podophyllotoxin, Interferon"
+1882,Human papillomavirus 15,"Imiquimod, Podophyllotoxin, Interferon"
+1883,Human papillomavirus type 16,"Imiquimod, Podophyllotoxin, Interferon"
+1884,Human papillomavirus 17,"Imiquimod, Podophyllotoxin, Interferon"
+1885,Human papillomavirus type 18,"Imiquimod, Podophyllotoxin, Interferon"
+1886,Human papillomavirus 19,"Imiquimod, Podophyllotoxin, Interferon"
+1887,Human papillomavirus 20,"Imiquimod, Podophyllotoxin, Interferon"
+1888,Human papillomavirus 21,"Imiquimod, Podophyllotoxin, Interferon"
+1889,Human papillomavirus 22,"Imiquimod, Podophyllotoxin, Interferon"
+1890,Human papillomavirus 23,"Imiquimod, Podophyllotoxin, Interferon"
+1891,Human papillomavirus 24,"Imiquimod, Podophyllotoxin, Interferon"
+1892,Human papillomavirus 25,"Imiquimod, Podophyllotoxin, Interferon"
+1893,Human papillomavirus type 26,"Imiquimod, Podophyllotoxin, Interferon"
+1894,Human papillomavirus 27,"Imiquimod, Podophyllotoxin, Interferon"
+1895,Human papillomavirus 28,"Imiquimod, Podophyllotoxin, Interferon"
+1896,Human papillomavirus 29,"Imiquimod, Podophyllotoxin, Interferon"
+1897,Human papillomavirus type 2a,"Imiquimod, Podophyllotoxin, Interferon"
+1898,Human papillomavirus 30,"Imiquimod, Podophyllotoxin, Interferon"
+1899,Human papillomavirus 31,"Imiquimod, Podophyllotoxin, Interferon"
+1900,Human papillomavirus type 32,"Imiquimod, Podophyllotoxin, Interferon"
+1901,Human papillomavirus 33,"Imiquimod, Podophyllotoxin, Interferon"
+1902,Human papillomavirus type 34,"Imiquimod, Podophyllotoxin, Interferon"
+1903,Human papillomavirus 35,"Imiquimod, Podophyllotoxin, Interferon"
+1904,Human papillomavirus 36,"Imiquimod, Podophyllotoxin, Interferon"
+1905,Human papillomavirus 37,"Imiquimod, Podophyllotoxin, Interferon"
+1906,Human papillomavirus 38,"Imiquimod, Podophyllotoxin, Interferon"
+1907,Human papillomavirus 39,"Imiquimod, Podophyllotoxin, Interferon"
+1908,Human papillomavirus 40,"Imiquimod, Podophyllotoxin, Interferon"
+1909,Human papillomavirus type 41,"Imiquimod, Podophyllotoxin, Interferon"
+1910,Human papillomavirus 42,"Imiquimod, Podophyllotoxin, Interferon"
+1911,Human papillomavirus 44,"Imiquimod, Podophyllotoxin, Interferon"
+1912,Human papillomavirus 45,"Imiquimod, Podophyllotoxin, Interferon"
+1913,Human papillomavirus 47,"Imiquimod, Podophyllotoxin, Interferon"
+1914,Human papillomavirus type 48,"Imiquimod, Podophyllotoxin, Interferon"
+1915,Human papillomavirus type 49,"Imiquimod, Podophyllotoxin, Interferon"
+1916,Human papillomavirus 51,"Imiquimod, Podophyllotoxin, Interferon"
+1917,Human papillomavirus 52,"Imiquimod, Podophyllotoxin, Interferon"
+1918,Human papillomavirus type 53,"Imiquimod, Podophyllotoxin, Interferon"
+1919,Human papillomavirus type 54,"Imiquimod, Podophyllotoxin, Interferon"
+1920,Reston ebolavirus,"Brincidofovir, ZMapp"
+1921,Tai Forest ebolavirus,"Brincidofovir, ZMapp"
+1922,Human immunodeficiency virus type 1,"Antiretroviral therapy  - Emtricitabine, Tenofovir, Efavirenz"
+1923,Simian immunodeficiency virus,"Antiretroviral therapy  - Emtricitabine, Tenofovir, Efavirenz"
+1924,Amanita virosa,"Gastric lavage, Activated charcoal, Supportive care"
+1925,Pseudechis rossignolii,"Antivenom , Pain management"
+1926,Pseudonaja textilis textilis,"Antivenom , Pain management"
+1927,Pseudocerastes persicus,"Antivenom , Pain management"
+1928,Bothrops barnetti,"Antivenom , Pain management"
+1929,Crotalus molossus molossus,"Antivenom , Pain management"
+1930,Crotalus molossus nigrescens,"Antivenom , Pain management"
+1931,Crotalus cerastes cerastes,"Antivenom , Pain management"
+1932,Crotalus cerberus,"Antivenom , Pain management"
+1933,Crotalus durissus durissus,"Antivenom , Pain management"
+1934,Echis leucogaster,"Antivenom , Pain management"
+1935,Cerrophidion sasai,"Antivenom , Pain management"
+1936,Crotalus morulus,"Antivenom , Pain management"
+1937,Human papillomavirus 62,"Imiquimod, Podophyllotoxin, Interferon"
+1938,Human papillomavirus type 64,"Imiquimod, Podophyllotoxin, Interferon"
+1939,Human papillomavirus 67,"Imiquimod, Podophyllotoxin, Interferon"
+1940,Human papillomavirus 82,"Imiquimod, Podophyllotoxin, Interferon"
+1941,Avian infectious bronchitis virus,"Amantadine, Ribavirin"
+1942,Porcine epidemic diarrhea virus,"Interferon, Ribavirin"
+1943,African horse sickness virus,"No specific treatment, but supportive care and antipyretics"
+1944,Bluetongue virus,"No specific treatment, but supportive care and antipyretics"
+1945,Epizootic hemorrhagic disease virus,"No specific treatment, but supportive care and antipyretics"
+1946,Murine polyomavirus,"No specific treatment, but supportive care and antipyretics"
+1947,Gallid herpesvirus 2,"Acyclovir, Valacyclovir, Famciclovir"
+1948,Rotavirus A,"No specific treatment, but supportive care and antipyretics"
+1950,Rotavirus C,"No specific treatment, but supportive care and antipyretics"
+1951,Bothrocophias androanus,"Antivenom , Pain management"
+1952,Gloydius shedaoensis,"Antivenom , Pain management"
+1953,Rat cytomegalovirus,"No specific treatment, but supportive care and antipyretics"
+1954,Perkinsus olseni,"No specific treatment, but supportive care and antipyretics"
+1955,Pituophis melanoleucus,"Antivenom , Pain management"
+1957,Mycoplasma mycoides,"Doxycycline, Azithromycin, Erythromycin"
+1958,Streptococcus gallolyticus,"Penicillin, Amoxicillin, Clindamycin"
+1959,Lymphocytic choriomeningitis virus,"Ribavirin, Interferon"
+1960,Cladophialophora bantiana,"Amphotericin B, Itraconazole, Voriconazole"
