@@ -1,2 +1,3 @@
 ai_data.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+*.fasta filter=lfs diff=lfs merge=lfs -text
